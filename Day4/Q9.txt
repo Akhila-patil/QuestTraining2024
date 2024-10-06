@@ -1,0 +1,27 @@
+using System;
+using System.Collections.Generic;
+using System.Collections.Specialized;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Problem4
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter the string :");
+            string s=Console.ReadLine();
+            var reverse = String.Concat(s.Reverse());
+            if (s == reverse)
+            {
+                Console.WriteLine($"{s} is palindrome word");
+            }
+            else
+            {
+                Console.WriteLine($"{s} is not palindrome word");
+            }
+        }
+    }
+}
