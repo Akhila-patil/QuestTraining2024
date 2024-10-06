@@ -25,10 +25,10 @@ namespace Basics
             Console.WriteLine("Enter the first number: );
             String num1=Console.ReadLine();
 
-            Console.WriteLine("Enter the first number: );
+            Console.WriteLine("Enter the first number is: );
             String num2=Console.ReadLine();
 
-            Console.WriteLine($"Sum of two number is{num+num2}");
+            Console.WriteLine($"Sum of two numbers  is {num+num2}");
 
         }
     }
