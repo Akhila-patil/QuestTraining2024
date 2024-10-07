@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day5-Namespace\RemoveEvenNoList\bin\Debug\RemoveEvenNoList.exe.config
+D:\QuestTraining2024\Day5-Namespace\RemoveEvenNoList\bin\Debug\RemoveEvenNoList.exe
+D:\QuestTraining2024\Day5-Namespace\RemoveEvenNoList\bin\Debug\RemoveEvenNoList.pdb
+D:\QuestTraining2024\Day5-Namespace\RemoveEvenNoList\obj\Debug\RemoveEvenNoList.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day5-Namespace\RemoveEvenNoList\obj\Debug\RemoveEvenNoList.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day5-Namespace\RemoveEvenNoList\obj\Debug\RemoveEvenNoList.exe
+D:\QuestTraining2024\Day5-Namespace\RemoveEvenNoList\obj\Debug\RemoveEvenNoList.pdb

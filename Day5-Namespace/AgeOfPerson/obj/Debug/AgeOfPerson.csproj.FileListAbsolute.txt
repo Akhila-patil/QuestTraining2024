@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day5-Namespace\AgeOfPerson\bin\Debug\AgeOfPerson.exe.config
+D:\QuestTraining2024\Day5-Namespace\AgeOfPerson\bin\Debug\AgeOfPerson.exe
+D:\QuestTraining2024\Day5-Namespace\AgeOfPerson\bin\Debug\AgeOfPerson.pdb
+D:\QuestTraining2024\Day5-Namespace\AgeOfPerson\obj\Debug\AgeOfPerson.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day5-Namespace\AgeOfPerson\obj\Debug\AgeOfPerson.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day5-Namespace\AgeOfPerson\obj\Debug\AgeOfPerson.exe
+D:\QuestTraining2024\Day5-Namespace\AgeOfPerson\obj\Debug\AgeOfPerson.pdb

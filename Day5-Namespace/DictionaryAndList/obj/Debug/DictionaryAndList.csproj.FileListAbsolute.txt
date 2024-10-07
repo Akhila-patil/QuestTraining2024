@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day5-Namespace\DictionaryAndList\bin\Debug\DictionaryAndList.exe.config
+D:\QuestTraining2024\Day5-Namespace\DictionaryAndList\bin\Debug\DictionaryAndList.exe
+D:\QuestTraining2024\Day5-Namespace\DictionaryAndList\bin\Debug\DictionaryAndList.pdb
+D:\QuestTraining2024\Day5-Namespace\DictionaryAndList\obj\Debug\DictionaryAndList.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day5-Namespace\DictionaryAndList\obj\Debug\DictionaryAndList.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day5-Namespace\DictionaryAndList\obj\Debug\DictionaryAndList.exe
+D:\QuestTraining2024\Day5-Namespace\DictionaryAndList\obj\Debug\DictionaryAndList.pdb

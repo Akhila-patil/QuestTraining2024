@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day5-Namespace\Day5-List\bin\Debug\Day5-List.exe.config
+D:\QuestTraining2024\Day5-Namespace\Day5-List\bin\Debug\Day5-List.exe
+D:\QuestTraining2024\Day5-Namespace\Day5-List\bin\Debug\Day5-List.pdb
+D:\QuestTraining2024\Day5-Namespace\Day5-List\obj\Debug\Day5-ListDataType.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day5-Namespace\Day5-List\obj\Debug\Day5-ListDataType.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day5-Namespace\Day5-List\obj\Debug\Day5-List.exe
+D:\QuestTraining2024\Day5-Namespace\Day5-List\obj\Debug\Day5-List.pdb

@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day5-Namespace\MultidimensionalList\bin\Debug\MultidimensionalList.exe.config
+D:\QuestTraining2024\Day5-Namespace\MultidimensionalList\bin\Debug\MultidimensionalList.exe
+D:\QuestTraining2024\Day5-Namespace\MultidimensionalList\bin\Debug\MultidimensionalList.pdb
+D:\QuestTraining2024\Day5-Namespace\MultidimensionalList\obj\Debug\MultidimensionalList.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day5-Namespace\MultidimensionalList\obj\Debug\MultidimensionalList.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day5-Namespace\MultidimensionalList\obj\Debug\MultidimensionalList.exe
+D:\QuestTraining2024\Day5-Namespace\MultidimensionalList\obj\Debug\MultidimensionalList.pdb
