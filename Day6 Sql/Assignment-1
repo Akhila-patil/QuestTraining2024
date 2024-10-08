@@ -1,0 +1,75 @@
+
+1) Available DataBases:
+
+1.MySQL
+2.Microsoft SQL Server
+3.MongoDB
+4.Cloud database
+5.MariaDB
+6.SQLite
+7.Network Database
+8.Object-oriented databases
+9.IBM Db2
+10.NoSQL databases
+11.Oracle db
+12.Redis db
+13.cassandra
+14.Couchbase
+15.Dynamo db
+
+2)Company	Database
+1.Amazon	DynamoDB, Aurora, Redshift
+2.Google	BigQuery, Spanner, Firestore
+3.Microsoft	SQL Server, Azure Cosmos DB, Azure SQL Database
+4.Facebook	MySQL, RocksDB, Cassandra
+5.Twitter	MySQL, Manhattan, Hadoop
+6.Netflix	MySQL, Cassandra, Elasticsearch
+7.Uber	        MySQL, Cassandra, Postgres
+8.LinkedIn	MySQL, Espresso, Kafka
+9.Spotify	Cassandra, Postgres, Redis
+10.Airbnb	MySQL, Postgres, Redis
+11.Discord      Cassandra, Postgre SQL, Redis, Influx DB, Riak
+12.
+
+3) Relational Database and Non-Relational Database
+  
+Relational - software used to store, manage, query, and retrieve data 
+->RDBMS stores data in the form of tables whereas DBMS stores in form of files
+
+Non-Relational - - Database that doesn't use tables and rows
+
+Different types of NoSQL :
+a) Key-Value
+b)Document stores
+c)Column Family Data stores
+d)Graph Database
+
+
+
+1.One to One relationship:
+A one-to-one relationship in a database management system (DBMS) is a unique connection between two tables where each record in one table corresponds to only one record in the other table.
+Ex: Country and capital cityA country has only one capital city, and a capital city only belongs to one country. 
+
+2.One-to-Many relationship:
+In a relational database management system (DBMS), a one-to-many relationship is when a record in one table is associated with multiple records in another table. This is the most common type of relationship in DBMS.
+Ex:Car and owner: A car can only be owned by one person at a time, but a person can own multiple cars. 
+
+3.Many-to-One relationship:
+A many-to-one relationship in a database management system (DBMS) is when one or more records in one table are linked to a single record in another table.
+Ex:A state has many cities, but a city is only in one state.
+
+4.Many-to-Many relationship:
+A many-to-many relationship in a database management system (DBMS) occurs when multiple records in one table are associated with multiple records in another table
+Ex:Customers and products: Customers can purchase multiple products, and products can be purchased by multiple customers. 
+
+Foreign Key and Usage:
+A foreign key is the one that is used to link two tables together via the primary key. It means the columns of one table points to the primary key attribute of the other table. It further means that if any attribute is set as a primary key attribute will work in another table as a foreign key attribute.
+
+Usage:The use of a foreign key is simply to link the attributes of two tables together with the help of a primary key attribute. Thus, it is used for creating and maintaining the relationship between the two relations.
+
+
+
+
+
+
+
