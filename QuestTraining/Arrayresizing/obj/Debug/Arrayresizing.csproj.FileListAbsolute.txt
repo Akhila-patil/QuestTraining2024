@@ -1,0 +1,7 @@
+D:\QuestTraining2024\QuestTraining\Arrayresizing\bin\Debug\Arrayresizing.exe.config
+D:\QuestTraining2024\QuestTraining\Arrayresizing\bin\Debug\Arrayresizing.exe
+D:\QuestTraining2024\QuestTraining\Arrayresizing\bin\Debug\Arrayresizing.pdb
+D:\QuestTraining2024\QuestTraining\Arrayresizing\obj\Debug\Arrayresizing.csproj.AssemblyReference.cache
+D:\QuestTraining2024\QuestTraining\Arrayresizing\obj\Debug\Arrayresizing.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\QuestTraining\Arrayresizing\obj\Debug\Arrayresizing.exe
+D:\QuestTraining2024\QuestTraining\Arrayresizing\obj\Debug\Arrayresizing.pdb

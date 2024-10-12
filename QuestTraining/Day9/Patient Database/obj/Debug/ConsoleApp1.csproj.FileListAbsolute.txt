@@ -1,0 +1,2 @@
+D:\QuestTraining2024\QuestTraining\Day9\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\QuestTraining2024\QuestTraining\Day9\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache

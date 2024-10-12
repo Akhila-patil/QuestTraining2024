@@ -1,0 +1,7 @@
+D:\QuestTraining2024\QuestTraining\Day9\StoreProductStock\bin\Debug\StoreProductStock.exe.config
+D:\QuestTraining2024\QuestTraining\Day9\StoreProductStock\bin\Debug\StoreProductStock.exe
+D:\QuestTraining2024\QuestTraining\Day9\StoreProductStock\bin\Debug\StoreProductStock.pdb
+D:\QuestTraining2024\QuestTraining\Day9\StoreProductStock\obj\Debug\StoreProductStock.csproj.AssemblyReference.cache
+D:\QuestTraining2024\QuestTraining\Day9\StoreProductStock\obj\Debug\StoreProductStock.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\QuestTraining\Day9\StoreProductStock\obj\Debug\StoreProductStock.exe
+D:\QuestTraining2024\QuestTraining\Day9\StoreProductStock\obj\Debug\StoreProductStock.pdb

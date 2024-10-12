@@ -1,0 +1,657 @@
+                       List
+
+-> Add: Adds an item to the end of the list.
+
+Ex: 
+    //1.initializing list
+    List<int> numbers=new List<int>();
+    //Adding element
+    numbers.Add(10);
+    numbers.Add(5);
+
+-> Insert: Inserts an item at the specified index.
+
+Ex:
+    //2.Insering element at specific index
+    numbers.Insert(2, 25);
+    Console.WriteLine("After inserting 25 at index 2:");
+    foreach (int number in numbers)
+        {
+            Console.WriteLine(number);
+        }
+
+-> Remove: Removes the first occurrence of a specific item from the list.
+
+Ex: 
+    //3. Remove a specific element
+        numbers.Remove(20);
+        Console.WriteLine("After removing 20:");
+        foreach (int number in numbers)
+        {
+            Console.WriteLine(number);
+        }
+    
+
+->  RemoveAt: Removes the item at the specified index.
+
+  Ex:     // 4. Remove element at a specific index
+
+        numbers.RemoveAt(1);
+        Console.WriteLine("\nAfter removing element at index 1:");
+        foreach (int number in numbers)
+        {
+            Console.WriteLine(number);
+        }
+
+-> Contains: Checks if a specific item exists in the list.
+
+Ex:   // 5. Check if list contains an element
+
+        bool contains30 = numbers.Contains(30);
+        Console.WriteLine($"\nList contains 30: {contains30}");
+
+-> IndexOf: Returns the index of the first occurrence of a specific item.
+
+Ex:    // 6. Find the index of a specific element
+
+        int index = numbers.IndexOf(40);
+        Console.WriteLine($"Index of 40: {index}");
+
+-> Count: Returns the number of elements in the list.
+
+Ex: // 7. Get the count of elements in the list
+
+        int count = numbers.Count;
+        Console.WriteLine($"Number of elements in the list: {count}");
+
+-> Clear(): Removes all items from the list.
+
+Ex:
+      // 10. Clear the list
+
+        numbers.Clear();
+        Console.WriteLine($" Count after clearing the list: {numbers.Count}");
+
+-> Sort(): Sorts the list elements in ascending order.
+
+Ex:
+      // 8. Sort the list
+
+        numbers.Sort();
+        Console.WriteLine("After sorting the list:");
+        foreach (int number in numbers)
+        {
+            Console.WriteLine(number);
+        }
+
+-> ToArray(): Converts the list to an array.
+
+Ex:   // 9. Convert the list to an array
+
+        int[] numberArray = numbers.ToArray();
+        Console.WriteLine("List elements in array form:");
+        foreach (int number in numberArray)
+        {
+            Console.WriteLine(number);
+        }
+     
+-> Find: Searches for an element that matches the conditions defined by a predicate.
+
+Ex:   // 11. Find: Find the first number greater than 25
+
+        int firstMatch = numbers.Find(x => x > 25);
+        Console.WriteLine($"First number greater than 25: {firstMatch}");
+
+-> ForEach : Performs the specified action on each element of the list.
+
+Ex:    // 12. ForEach: Multiply each number by 2 and print the result
+        Console.WriteLine("Numbers multiplied by 2:");
+        foreach(int item in number){
+            Console.WriteLine(number * 2);
+        }
+-> Reverse(): Reverses the order of the elements in the list.
+
+Ex: / 13. Reverse: Reverse the order of the elements in the list
+        numbers.Reverse();
+        Console.WriteLine("\nList after reversing:");
+        foreach (int number in numbers)
+        {
+            Console.WriteLine(number);
+        }
+                        STRING
+String Functions:
+1. Length:
+Purpose: Returns the number of characters in the string.
+Syntax: string.Length
+Example:
+C#
+
+string str = "Hello, World!";
+int length = str.Length; // length will be 13
+
+
+2. CompareTo:
+Purpose: Compares the current string with another string.
+Syntax: string.CompareTo(string other)
+Returns:
+-1 if the current string is less than the other string.
+0 if the strings are equal.
+1 if the current string is greater than the other string.
+Example:
+C#
+string str1 = "Apple";
+string str2 = "Banana";
+int result = str1.CompareTo(str2); // result will be -1
+
+
+3. Equals:
+Purpose: Determines whether two strings are equal.
+Syntax: string.Equals(string other)
+Returns: True if the strings are equal, otherwise false.
+Example:
+C#
+string str1 = "Hello";
+string str2 = "Hello";
+bool areEqual = str1.Equals(str2); // areEqual will be true
+
+
+
+4. Contains:
+Purpose: Checks if a substring exists within the current string.
+Syntax: string.Contains(string value)
+Returns: True if the substring exists, otherwise false.
+Example 
+C#
+string str = "Hello, World!";
+bool contains = str.Contains("World"); // contains will be true
+
+
+5. StartsWith:
+Purpose: Checks if the current string starts with a specified substring.
+Syntax: string.StartsWith(string value)
+Returns: True if the string starts with the substring, otherwise false.
+Example:
+C#
+string str = "Hello, World!";
+bool startsWith = str.StartsWith("Hello"); // startsWith will be true
+
+
+6. EndsWith:
+Purpose: Checks if the current string ends with a specified substring.
+Syntax: string.EndsWith(string value)
+Returns: True if the string ends with the substring, otherwise false.
+Example:
+C#
+string str = "Hello, World!";
+bool endsWith = str.EndsWith("World!"); // endsWith will be true
+
+
+7. IndexOf:
+Purpose: Finds the index of the first occurrence of a specified character or substring within the current string.
+Syntax: string.IndexOf(char value) or string.IndexOf(string value)
+Returns: The index of the first occurrence, or -1 if not found.
+Example:
+C#
+string str = "Hello, World!";
+int index = str.IndexOf('o'); // index will be 4
+
+
+8. LastIndexOf:
+Purpose: Finds the index of the last occurrence of a specified character or substring within the current string.
+Syntax: string.LastIndexOf(char value) or string.LastIndexOf(string value)
+Returns: The index of the last occurrence, or -1 if not found.
+Example:
+C#
+string str = "Hello, World!";
+int index = str.LastIndexOf('o'); // index will be 7
+9. Substring:
+Purpose: Extracts a substring from the current string.
+Syntax: string.Substring(int startIndex) or string.Substring(int startIndex, int length)
+Returns: The extracted substring.
+Example:
+C#
+string str = "Hello, World!";
+string substring = str.Substring(7); // substring will be "World!"
+
+
+10. Replace:
+Purpose: Replaces all occurrences of a specified character or substring with another string.
+Syntax: string.Replace(char oldChar, char newChar) or string.Replace(string oldString, string newString)
+Returns: The modified string.
+Example:
+C#
+string str = "Hello, World!";
+string replaced = str.Replace("World", "Universe"); // replaced will be "Hello, Universe!"
+
+
+11. ToUpper:
+Purpose: Converts all characters in the current string to uppercase.
+Syntax: string.ToUpper()
+Returns: The uppercase string.
+Example:
+C#
+string str = "Hello, World!";
+string upper = str.ToUpper(); // upper will be "HELLO, WORLD!"
+12. ToLower:
+Purpose: Converts all characters in the current string to lowercase.
+Syntax: string.ToLower()
+Returns: The lowercase string.
+Example:
+string str = "Hello, World!";
+string lower = str.ToLower(); // lower will be "hello, world!"
+
+
+13. Trim:
+Purpose: Removes leading and trailing white space characters from the current string.
+Syntax: string.Trim()
+Returns: The trimmed string.
+Example:
+C#
+string str = "  Hello, World!  ";
+string trimmed = str.Trim(); // trimmed will be "Hello, World!"
+
+
+String Methods:
+1. Split:
+Purpose: Splits the current string into a string array based on a specified delimiter.
+Syntax: string.Split(char[] separator) or string.Split(char[] separator, StringSplitOptions options)
+Returns: The string array.
+Example:
+C#
+string str = "Hello,World,How,Are,You";
+string[] words = str.Split(','); // words will be ["Hello", "World", "How", "Are", "You"]
+
+
+2. Join:
+Purpose: Joins the elements of a string array into a single string using a specified delimiter.
+Syntax: string.Join(string separator, string[] values)
+Returns: The joined string.
+Example:
+
+string[] words = {"Hello", "World", "How", "Are", "You"};
+string joined = string.Join(", ", words); // joined will be "Hello, World, How, Are, You"
+
+
+3. Format:
+Purpose: Formats a string using placeholders and corresponding values.
+Syntax: string.Format(string format, object[] args)
+Returns: The formatted string.
+Example
+C#
+string name = "Alice";
+int age = 30;
+string formatted = string.Format("Hello, {0}! You are {1} years old.", name, age);
+// formatted will be "Hello, Alice! You are 30 years old."
+
+
+4. PadLeft:
+Purpose: Pads the left side of the current string with a specified character to a specified length.
+Syntax: string.PadLeft(int totalWidth) or string.PadLeft(int totalWidth, char paddingChar)
+Returns: The padded string.
+Example:
+
+string str = "Hello";
+string padded = str.PadLeft(10, '-'); // padded will be "-----Hello"
+
+
+5. PadRight:
+Purpose: Pads the right side of the current string with a specified character to a specified length.
+Syntax: string.PadRight(int totalWidth) or string.PadRight(int totalWidth, char paddingChar)
+Returns: The padded string.
+Example:
+
+string str = "Hello";
+string padded = str.PadRight(10, '-'); // padded will be "Hello-----"
+
+
+
+
+
+
+6. Remove:
+Purpose: Removes a specified number of characters from the current string, starting at a specified index.
+Syntax: string.Remove(int startIndex) or string.Remove(int startIndex, int count)
+Returns: The modified string.
+Example:
+
+string str = "Hello, World!";
+string removed = str.Remove(7, 5); // removed will be "Hello, !"
+
+
+7. Insert:
+Purpose: Inserts a specified string into the current string at a specified index.
+Syntax: string.Insert(int startIndex, string value)
+Returns: The modified string.
+Example
+
+string str = "Hello, World!";
+string inserted = str.Insert(7, "Beautiful "); // inserted will be "Hello, Beautiful World!"
+
+
+8. ToCharArray:
+Purpose: Converts the current string into a character array.
+Syntax: string.ToCharArray()
+Returns: The character array.
+Example:
+
+string str = "Hello, World!";
+char[] chars
+9. ToCharArray:
+Purpose: Converts the current string into a character array.
+Syntax: string.ToCharArray()
+Returns: The character array.
+Example:
+string str = "Hello, World!";
+char[] chars = str.ToCharArray(); // chars will be ['H', 'e', 'l', 'l', 'o', ',', ' ', 'W', 'o', 'r', 'l', 'd', '!']
+
+
+10. Intern:
+Purpose: Retrieves the string from the string pool if it already exists, otherwise adds it to the pool and returns a reference to it.
+Syntax: string.Intern(string str)
+Returns: The interned string.
+Example:
+
+string str1 = "Hello";
+string str2 = string.Intern(str1);
+// str1 and str2 will refer to the same object in the string pool
+
+
+11. Copy:
+Purpose: Copies the current string to a new character array.
+Syntax: string.CopyTo(int sourceIndex, char[] destination, int destinationIndex, int count)
+Returns: None.
+Example:
+
+string str = "Hello, World!";
+char[] chars = new char[13];
+str.CopyTo(0, chars, 0, 13); // chars will be ['H', 'e', 'l', 'l', 'o', ',', ' ', 'W', 'o', 'r', 'l', 'd', '!']
+
+
+12. Normalize:
+Purpose: Normalizes the current string according to the specified Unicode normalization form.
+Syntax: string.Normalize(NormalizationForm form)
+Returns: The normalized string.
+Example:
+
+string str = "café";
+string normalized = str.Normalize(NormalizationForm.FormC);
+// normalized will be "cafe" (normalized form)
+
+
+
+13. IsNormalized:
+Purpose: Checks if the current string is normalized according to the specified Unicode normalization form.
+Syntax: string.IsNormalized(NormalizationForm form)
+Returns: True if the string is normalized, otherwise false.
+Example:
+
+string str = "café";
+bool isNormalized = str.IsNormalized(NormalizationForm.FormC);
+// isNormalized will be false
+
+
+14. IsNullOrEmpty:
+Purpose: Checks if the specified string is null or empty.
+Syntax: string.IsNullOrEmpty(string str)
+Returns: True if the string is null or empty, otherwise false.
+Example:
+
+string str = null;
+bool isNullOrEmpty = string.IsNullOrEmpty(str);
+// isNullOrEmpty will be true
+
+
+15. IsNullOrWhiteSpace:
+Purpose: Checks if the specified string is null, empty, or consists only of white space characters.
+Syntax: string.IsNullOrWhiteSpace(string str)
+Returns: True if the string is null, empty, or consists only of white space characters, otherwise false.
+Example:
+
+string str = "  ";
+bool isNullOrWhiteSpace = string.IsNullOrWhiteSpace(str);
+// isNullOrWhiteSpace will be true
+
+
+                       ARRAY
+Functions and Methods:
+1.Indexer
+Purpose: Access or modify elements of an array by their index.
+Syntax: array[index]
+Example:
+C#
+int[] numbers = { 1, 2, 3, 4, 5 };
+int secondElement = numbers[1]; // Accesses the second element (index 1)
+numbers[3] = 10; // Modifies the fourth element (index 3)
+
+
+2.Length Property
+Purpose: Returns the total number of elements in an array.
+Syntax: array.Length
+Example:
+C#
+int[] numbers = { 1, 2, 3, 4, 5 };
+int length = numbers.Length; // length will be 5
+
+
+3.Rank Property
+Purpose: Returns the number of dimensions in an array.
+Syntax: array.Rank
+Example:
+C#
+int[] numbers = { 1, 2, 3, 4, 5 }; // One-dimensional array
+int rank = numbers.Rank; // rank will be 1
+
+
+
+4.GetLength Method
+Purpose: Returns the length of a specific dimension in a multidimensional array.
+Syntax: array.GetLength(dimension)
+Example:
+C#
+int[,] matrix = { { 1, 2 }, { 3, 4 } }; // Two-dimensional array
+int length = matrix.GetLength(0); // Length of the first dimension (rows)
+
+
+5.GetLowerBound and GetUpperBound Methods
+Purpose: Returns the lower and upper bounds of a specific dimension in an array.
+Syntax: array.GetLowerBound(dimension) and array.GetUpperBound(dimension)
+Example:
+C#
+int[] numbers = { 1, 2, 3, 4, 5 };
+int lowerBound = numbers.GetLowerBound(0); // Lower bound will be 0
+int upperBound = numbers.GetUpperBound(0); // Upper bound will be 4
+
+
+6.Clone Method
+Purpose: Creates a shallow copy of an array.
+Syntax: array.Clone()
+Example:
+C#
+int[] numbers = { 1, 2, 3, 4, 5 };
+int[] clonedArray = numbers.Clone();
+
+
+
+7.CopyTo Method
+Purpose: Copies a portion of an array to another array.
+Syntax: array.CopyTo(Array destination, int destinationIndex, int startIndex, int length)
+Example:
+C#
+int[] source = { 1, 2, 3, 4, 5 };
+int[] destination = new int[3];
+source.CopyTo(destination, 0, 1, 3); // Copies elements 1, 2, and 3 to destination
+
+
+8.Clear Method
+Purpose: Clears all elements of an array to their default values.
+Syntax: array.Clear()
+Example:
+C#
+int[] numbers = { 1, 2, 3, 4, 5 };
+numbers.Clear(); // All elements will be set to 0
+
+
+9.Reverse Method
+Purpose: Reverses the order of elements in an array.
+Syntax: array.Reverse()
+Example:
+C#
+int[] numbers = { 1, 2, 3, 4, 5 };
+numbers.Reverse(); // numbers will be { 5, 4, 3, 2, 1 }
+
+
+10.Sort Method
+Purpose: Sorts the elements of an array.
+Syntax: array.Sort() or Array.Sort(array, Comparer)
+Example:
+C#
+int[] numbers = { 3, 1, 4, 1, 5, 9, 2, 6, 5 };
+Array.Sort(numbers); // numbers will be sorted in ascending order
+
+
+                   Dictionaries 
+
+Common Functions and Methods:
+
+1.Add Method
+Purpose: Adds a new key-value pair to the dictionary.
+Syntax: dictionary.Add(key, value)
+Example:
+C#
+Dictionary<string, int> ages = new Dictionary<string, int>();
+ages.Add("Alice", 30);
+ages.Add("Bob", 25);
+
+
+2.ContainsKey Method
+Purpose: Checks if a specific key exists in the dictionary.
+Syntax: dictionary.ContainsKey(key)
+Example:
+C#
+Dictionary<string, int> ages = new Dictionary<string, int>();
+bool contains = ages.ContainsKey("Alice"); // Contains will be true
+
+
+3.ContainsValue Method
+Purpose: Checks if a specific value exists in the dictionary.
+Syntax: dictionary.ContainsValue(value)
+Example:
+C#
+Dictionary<string, int> ages = new Dictionary<string, int>();
+bool contains = ages.ContainsValue(30); // Contains will be true
+
+
+
+4.Remove Method
+Purpose: Removes a key-value pair from the dictionary.
+Syntax: dictionary.Remove(key)
+Example:
+C#
+Dictionary<string, int> ages = new Dictionary<string, int>();
+ages.Remove("Alice"); // Removes the key-value pair for "Alice"
+
+
+5.Clear Method
+Purpose: Removes all key-value pairs from the dictionary.
+Syntax: dictionary.Clear()
+Example:
+C#
+Dictionary<string, int> ages = new Dictionary<string, int>();
+ages.Clear(); // Empties the dictionary
+
+
+6.Count Property
+Purpose: Returns the number of key-value pairs in the dictionary.
+Syntax: dictionary.Count
+Example:
+C#
+Dictionary<string, int> ages = new Dictionary<string, int>();
+int count = ages.Count;
+
+
+7.Keys Property
+Purpose: Returns a collection of keys in the dictionary.
+Syntax: dictionary.Keys
+Example:
+C#
+Dictionary<string, int> ages = new Dictionary<string, int>();
+foreach (string key in ages.Keys)
+{
+    Console.WriteLine(key);
+}
+
+
+
+8.Values Property
+Purpose: Returns a collection of values in the dictionary.
+Syntax: dictionary.Values
+Example:
+C#
+Dictionary<string, int> ages = new Dictionary<string, int>();
+foreach (int value in ages.Values)
+{
+    Console.WriteLine(value);
+}
+
+
+9.TryGetValue Method
+Purpose: Attempts to retrieve the value associated with a specified key.
+Syntax: dictionary.TryGetValue(key, out value)
+Example:
+C#
+Dictionary<string, int> ages = new Dictionary<string, int>();
+int age;
+if (ages.TryGetValue("Alice", out age))
+{
+    Console.WriteLine("Age: " + age);
+}
+
+
+10.ToDictionary Method
+Purpose: Converts the dictionary to a new dictionary of a different type.
+Syntax: dictionary.ToDictionary(keySelector, elementSelector)
+Example:
+C#
+Dictionary<string, int> numbers = new Dictionary<string, int>();
+numbers.Add("one", 1);
+numbers.Add("two", 2);
+
+11.Dictionary<int, string> reversed = numbers.ToDictionary(kvp => kvp.Value, kvp => kvp.Key);
+TryAdd Method
+Purpose: Attempts to add a new key-value pair to the dictionary.
+Syntax: dictionary.TryAdd(key, value)
+Returns: True if the key-value pair was added, false if the key already exists.
+Example:
+C#
+Dictionary<string, int> ages = new Dictionary<string, int>();
+bool added = ages.TryAdd("Alice", 30);
+
+
+12.GetOrAdd Method
+Purpose: Attempts to retrieve the value associated with a specified key. If the key doesn't exist, it adds a new key-value pair using a specified function.
+Syntax: dictionary.GetOrAdd(key, valueFactory)
+Example:
+C#
+Dictionary<string, int> ages = new Dictionary<string, int>();
+int age = ages.GetOrAdd("Alice", () => 30);
+
+
+13.RemoveAll Method
+Purpose: Removes all key-value pairs from the dictionary that satisfy a specified condition.
+Syntax: dictionary.RemoveAll(predicate)
+Example:
+C#
+Dictionary<string, int> ages = new Dictionary<string, int>();
+ages.RemoveAll(kvp => kvp.Value > 30);
+
+
+
+
+
+
+
+
+
+
+
+
