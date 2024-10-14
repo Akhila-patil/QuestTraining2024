@@ -42,6 +42,8 @@ namespace PatientDatabase
                     {"Age",age },
                     {"Diagnosis",diagnosis},
                     {"AdmissionStatus",status }
+
+
                 };
                 patients.Add(patientId, patientDetails);
 
@@ -61,7 +63,9 @@ namespace PatientDatabase
         {
             Console.WriteLine("Enter the id of patient:");
             string patientId = Console.ReadLine();
+
             if (patients.ContainsKey(patientId))
+
             {
                 var patientDeatails = patients[patientId];
                 Console.WriteLine($"1.Ppatient Id:{patientId},\n2.PatientName:{patientDeatails["Name"]},\n3.PatientAge:{patientDeatails["Age"]},\n 4.Diagnosis:{patientDeatails["Diagnosis"]},\n5.Status:{patientDeatails["AdmissionStatus"]}");
@@ -69,6 +73,7 @@ namespace PatientDatabase
                 Console.WriteLine("If you want to change the diagnosis or change the Admission status in (y/n)");
                 string update = Console.ReadLine().ToLower().Trim();
                 if (update == "y")
+
                 {
                     Console.WriteLine("Enter the new diagnosis:");
                     patientDeatails["Diagnosis"] = Console.ReadLine();
@@ -79,11 +84,13 @@ namespace PatientDatabase
                     Console.WriteLine("Patient details updated successfully");
                     Console.WriteLine() ;
                 }
+                
                 else
                 {
                     Console.WriteLine("No updation required");
                 }
             }
+
             else
             {
                 Console.WriteLine("Patient id does not exisst");
@@ -100,6 +107,7 @@ namespace PatientDatabase
             {
 
                 if ((string)patient.Value["AdmissionStatus"] == "Admitted")
+
                 {
                     Console.WriteLine($"Patient ID:{patient.Key},\nName:{patient.Value["Name"]} \nAge:{patient.Value["Age"]},\nDiagnosis:{patient.Value["Diagnosis"]}");
 
@@ -112,6 +120,8 @@ namespace PatientDatabase
         {
             while (true)
             {
+
+
                 Console.WriteLine("\t");
                 Console.WriteLine("1.Add Patient\t ");
                 Console.WriteLine("2.Search and update patient details\t");
@@ -134,6 +144,7 @@ namespace PatientDatabase
                     case "3":
                         GetListOfAdmittedPatients();
                         break;
+                        
                     default:
                         Console.WriteLine("Invalid option no data exist");
                         break;
