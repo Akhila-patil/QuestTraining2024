@@ -1,0 +1,7 @@
+D:\QuestTraining2024\CalculatorClass\bin\Debug\CalculatorClass.exe.config
+D:\QuestTraining2024\CalculatorClass\bin\Debug\CalculatorClass.exe
+D:\QuestTraining2024\CalculatorClass\bin\Debug\CalculatorClass.pdb
+D:\QuestTraining2024\CalculatorClass\obj\Debug\CalculatorClass.csproj.AssemblyReference.cache
+D:\QuestTraining2024\CalculatorClass\obj\Debug\CalculatorClass.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\CalculatorClass\obj\Debug\CalculatorClass.exe
+D:\QuestTraining2024\CalculatorClass\obj\Debug\CalculatorClass.pdb

@@ -55,8 +55,6 @@ namespace PatientDatabase
             {
                 Console.WriteLine("patient id  already exist");
             }
-
-
         }
 
         static void SearchAndUpdateOfPatient()

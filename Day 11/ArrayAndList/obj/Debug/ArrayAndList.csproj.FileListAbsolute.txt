@@ -1,0 +1,7 @@
+D:\QuestTraining2024\ArrayAndList\bin\Debug\ArrayAndList.exe.config
+D:\QuestTraining2024\ArrayAndList\bin\Debug\ArrayAndList.exe
+D:\QuestTraining2024\ArrayAndList\bin\Debug\ArrayAndList.pdb
+D:\QuestTraining2024\ArrayAndList\obj\Debug\ArrayAndList.csproj.AssemblyReference.cache
+D:\QuestTraining2024\ArrayAndList\obj\Debug\ArrayAndList.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\ArrayAndList\obj\Debug\ArrayAndList.exe
+D:\QuestTraining2024\ArrayAndList\obj\Debug\ArrayAndList.pdb
