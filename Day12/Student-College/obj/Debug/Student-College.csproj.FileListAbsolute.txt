@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day12\Student-College\bin\Debug\Student-College.exe.config
+D:\QuestTraining2024\Day12\Student-College\bin\Debug\Student-College.exe
+D:\QuestTraining2024\Day12\Student-College\bin\Debug\Student-College.pdb
+D:\QuestTraining2024\Day12\Student-College\obj\Debug\Student-College.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day12\Student-College\obj\Debug\Student-College.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day12\Student-College\obj\Debug\Student-College.exe
+D:\QuestTraining2024\Day12\Student-College\obj\Debug\Student-College.pdb

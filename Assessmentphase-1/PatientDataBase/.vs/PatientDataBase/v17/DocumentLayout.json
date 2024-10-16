@@ -3,23 +3,38 @@
   "WorkspaceRootPath": "D:\\QuestTraining2024\\Assessmentphase-1\\PatientDataBase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{793F3B07-DC72-4BB3-B809-AC6D55CC36DA}|..\\..\\ArrayAndClass\\ArrayAndClass.csproj|d:\\questtraining2024\\arrayandclass\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5ADC12E-E2D9-4FCE-88C7-9E74D4D96CA4}|..\\..\\Assignment(creditCard)\\Assignment(creditCard).csproj|d:\\questtraining2024\\assignment(creditcard)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5ADC12E-E2D9-4FCE-88C7-9E74D4D96CA4}|..\\..\\Assignment(creditCard)\\Assignment(creditCard).csproj|d:\\questtraining2024\\assignment(creditcard)\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D56D43EC-6903-45BB-AFDB-42FA494CEBCF}|..\\..\\Day12\\PersonGetSet\\PersonGetSet.csproj|d:\\questtraining2024\\day12\\persongetset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56D43EC-6903-45BB-AFDB-42FA494CEBCF}|..\\..\\Day12\\PersonGetSet\\PersonGetSet.csproj|d:\\questtraining2024\\day12\\persongetset\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0595170A-5D1E-4BBB-9D6F-952F297A4B9F}|..\\..\\Day12\\Inheritance\\Inheritance.csproj|d:\\questtraining2024\\day12\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75FAD78-22E9-42D5-88CF-9FCBDB134C22}|..\\..\\Day 11\\ConsoleApp2\\ConsoleApp2.csproj|d:\\questtraining2024\\day 11\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75FAD78-22E9-42D5-88CF-9FCBDB134C22}|..\\..\\Day 11\\ConsoleApp2\\StudentDataBase.csproj|d:\\questtraining2024\\day 11\\consoleapp2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE73475-93A0-43EB-93C0-E54C91FE9EC9}|..\\..\\Day12\\Student-College\\Student-College.csproj|d:\\questtraining2024\\day12\\student-college\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24438ADB-2661-49AD-9724-0C36AA0883ED}|PatientDataBase\\PatientDataBase.csproj|D:\\QuestTraining2024\\Assessmentphase-1\\PatientDataBase\\patientdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24438ADB-2661-49AD-9724-0C36AA0883ED}|PatientDataBase\\PatientDataBase.csproj|solutionrelative:patientdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{997140A0-FA09-43F6-800A-B6027A197305}|..\\..\\ArrayAndList\\ArrayAndList.csproj|d:\\questtraining2024\\arrayandlist\\creaditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{997140A0-FA09-43F6-800A-B6027A197305}|..\\..\\ArrayAndList\\ArrayAndList.csproj|d:\\questtraining2024\\arrayandlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{793F3B07-DC72-4BB3-B809-AC6D55CC36DA}|..\\..\\ArrayAndClass\\ArrayAndClass.csproj|d:\\questtraining2024\\arrayandclass\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24438ADB-2661-49AD-9724-0C36AA0883ED}|PatientDataBase\\PatientDataBase.csproj|d:\\questtraining2024\\assessmentphase-1\\patientdatabase\\patientdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24438ADB-2661-49AD-9724-0C36AA0883ED}|PatientDataBase\\PatientDataBase.csproj|solutionrelative:patientdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{997140A0-FA09-43F6-800A-B6027A197305}|..\\..\\ArrayAndList\\ArrayAndList.csproj|d:\\questtraining2024\\arrayandlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6FDCE34-5F79-471F-81ED-42EE530D2635}|..\\..\\ClassAndObject\\ClassAndObject.csproj|d:\\questtraining2024\\classandobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -47,37 +62,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreditCard.cs",
-              "DocumentMoniker": "D:\\QuestTraining2024\\Assignment(creditCard)\\CreditCard.cs",
-              "RelativeDocumentMoniker": "..\\..\\Assignment(creditCard)\\CreditCard.cs",
-              "ToolTip": "D:\\QuestTraining2024\\Assignment(creditCard)\\CreditCard.cs",
-              "RelativeToolTip": "..\\..\\Assignment(creditCard)\\CreditCard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day12\\Student-College\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Day12\\Student-College\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Day12\\Student-College\\Program.cs",
+              "RelativeToolTip": "..\\..\\Day12\\Student-College\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T14:23:48.83Z",
+              "WhenOpened": "2024-10-16T11:18:26.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day12\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Day12\\Inheritance\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Day12\\Inheritance\\Program.cs",
+              "RelativeToolTip": "..\\..\\Day12\\Inheritance\\Program.cs",
+              "ViewState": "AgIAAAwAAABQqqqqqoowwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:12:31.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day12\\PersonGetSet\\Person.cs",
+              "RelativeDocumentMoniker": "..\\..\\Day12\\PersonGetSet\\Person.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Day12\\PersonGetSet\\Person.cs",
+              "RelativeToolTip": "..\\..\\Day12\\PersonGetSet\\Person.cs",
+              "ViewState": "AgIAAAMAAAAATFVVVVUMwA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:05:28.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day12\\PersonGetSet\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Day12\\PersonGetSet\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Day12\\PersonGetSet\\Program.cs",
+              "RelativeToolTip": "..\\..\\Day12\\PersonGetSet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:04:07.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day 11\\ConsoleApp2\\Student.cs",
+              "RelativeDocumentMoniker": "..\\..\\Day 11\\ConsoleApp2\\Student.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Day 11\\ConsoleApp2\\Student.cs",
+              "RelativeToolTip": "..\\..\\Day 11\\ConsoleApp2\\Student.cs",
+              "ViewState": "AgIAAAIAAABAqqqqqqoewCMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:29:41.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day 11\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Day 11\\ConsoleApp2\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Day 11\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "..\\..\\Day 11\\ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:57:04.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\Assignment(creditCard)\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\Assignment(creditCard)\\Program.cs",
               "ToolTip": "D:\\QuestTraining2024\\Assignment(creditCard)\\Program.cs",
               "RelativeToolTip": "..\\..\\Assignment(creditCard)\\Program.cs",
-              "ViewState": "AgIAAEMAAAAAqaqqqiouwFIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAACAoqqqqqoBwFIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T11:54:33.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "CreaditCard.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\ArrayAndList\\CreaditCard.cs",
               "RelativeDocumentMoniker": "..\\..\\ArrayAndList\\CreaditCard.cs",
@@ -90,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\ArrayAndList\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\ArrayAndList\\Program.cs",
@@ -103,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\CalculatorClass\\Class1.cs",
               "RelativeDocumentMoniker": "..\\..\\CalculatorClass\\Class1.cs",
@@ -116,20 +196,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\Assessmentphase-1\\PatientDataBase\\PatientDataBase\\Program.cs",
               "RelativeDocumentMoniker": "PatientDataBase\\Program.cs",
               "ToolTip": "D:\\QuestTraining2024\\Assessmentphase-1\\PatientDataBase\\PatientDataBase\\Program.cs",
               "RelativeToolTip": "PatientDataBase\\Program.cs",
-              "ViewState": "AgIAAF8AAACAmaqqqqohwGoAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAACApaqqqioqwGoAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T13:19:52.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\ArrayAndClass\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\ArrayAndClass\\Program.cs",
@@ -142,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\CalculatorClass\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\CalculatorClass\\Program.cs",
@@ -155,20 +235,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\ArrayAndClass\\Student.cs",
               "RelativeDocumentMoniker": "..\\..\\ArrayAndClass\\Student.cs",
               "ToolTip": "D:\\QuestTraining2024\\ArrayAndClass\\Student.cs",
               "RelativeToolTip": "..\\..\\ArrayAndClass\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T10:16:42.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\Question3\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\Question3\\Program.cs",
@@ -181,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\StudentClass\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\StudentClass\\Program.cs",
@@ -194,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\ClassAndObject\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\ClassAndObject\\Program.cs",
@@ -202,8 +282,7 @@
               "RelativeToolTip": "..\\..\\ClassAndObject\\Program.cs",
               "ViewState": "AgIAAAMAAADgSFVVVVUMwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T06:18:13.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T06:18:13.687Z"
             }
           ]
         }

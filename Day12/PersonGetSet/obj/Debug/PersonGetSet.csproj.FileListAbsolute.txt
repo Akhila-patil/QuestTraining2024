@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day12\PersonGetSet\bin\Debug\PersonGetSet.exe.config
+D:\QuestTraining2024\Day12\PersonGetSet\bin\Debug\PersonGetSet.exe
+D:\QuestTraining2024\Day12\PersonGetSet\bin\Debug\PersonGetSet.pdb
+D:\QuestTraining2024\Day12\PersonGetSet\obj\Debug\PersonGetSet.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day12\PersonGetSet\obj\Debug\PersonGetSet.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day12\PersonGetSet\obj\Debug\PersonGetSet.exe
+D:\QuestTraining2024\Day12\PersonGetSet\obj\Debug\PersonGetSet.pdb
