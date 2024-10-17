@@ -1,0 +1,15 @@
+D:\QuestTraining2024\EmployeeManagementApp\bin\Debug\net8.0\EmployeeManagementApp.exe
+D:\QuestTraining2024\EmployeeManagementApp\bin\Debug\net8.0\EmployeeManagementApp.deps.json
+D:\QuestTraining2024\EmployeeManagementApp\bin\Debug\net8.0\EmployeeManagementApp.runtimeconfig.json
+D:\QuestTraining2024\EmployeeManagementApp\bin\Debug\net8.0\EmployeeManagementApp.dll
+D:\QuestTraining2024\EmployeeManagementApp\bin\Debug\net8.0\EmployeeManagementApp.pdb
+D:\QuestTraining2024\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuestTraining2024\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.AssemblyInfoInputs.cache
+D:\QuestTraining2024\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.AssemblyInfo.cs
+D:\QuestTraining2024\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.sourcelink.json
+D:\QuestTraining2024\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.dll
+D:\QuestTraining2024\EmployeeManagementApp\obj\Debug\net8.0\refint\EmployeeManagementApp.dll
+D:\QuestTraining2024\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.pdb
+D:\QuestTraining2024\EmployeeManagementApp\obj\Debug\net8.0\EmployeeManagementApp.genruntimeconfig.cache
+D:\QuestTraining2024\EmployeeManagementApp\obj\Debug\net8.0\ref\EmployeeManagementApp.dll
