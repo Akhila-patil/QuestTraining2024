@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Delegates 16 Questions\IAnimal\bin\Debug\IAnimal.exe.config
+D:\QuestTraining2024\Delegates 16 Questions\IAnimal\bin\Debug\IAnimal.exe
+D:\QuestTraining2024\Delegates 16 Questions\IAnimal\bin\Debug\IAnimal.pdb
+D:\QuestTraining2024\Delegates 16 Questions\IAnimal\obj\Debug\IAnimal.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Delegates 16 Questions\IAnimal\obj\Debug\IAnimal.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Delegates 16 Questions\IAnimal\obj\Debug\IAnimal.exe
+D:\QuestTraining2024\Delegates 16 Questions\IAnimal\obj\Debug\IAnimal.pdb

@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Delegates 16 Questions\FunctionDelegate(7)\bin\Debug\FunctionDelegate(7).exe.config
+D:\QuestTraining2024\Delegates 16 Questions\FunctionDelegate(7)\bin\Debug\FunctionDelegate(7).exe
+D:\QuestTraining2024\Delegates 16 Questions\FunctionDelegate(7)\bin\Debug\FunctionDelegate(7).pdb
+D:\QuestTraining2024\Delegates 16 Questions\FunctionDelegate(7)\obj\Debug\FunctionDelegate(7).csproj.AssemblyReference.cache
+D:\QuestTraining2024\Delegates 16 Questions\FunctionDelegate(7)\obj\Debug\FunctionDelegate(7).csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Delegates 16 Questions\FunctionDelegate(7)\obj\Debug\FunctionDelegate(7).exe
+D:\QuestTraining2024\Delegates 16 Questions\FunctionDelegate(7)\obj\Debug\FunctionDelegate(7).pdb

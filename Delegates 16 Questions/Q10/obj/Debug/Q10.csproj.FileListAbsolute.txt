@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Delegates 16 Questions\Q10\bin\Debug\Q10.exe.config
+D:\QuestTraining2024\Delegates 16 Questions\Q10\bin\Debug\Q10.exe
+D:\QuestTraining2024\Delegates 16 Questions\Q10\bin\Debug\Q10.pdb
+D:\QuestTraining2024\Delegates 16 Questions\Q10\obj\Debug\Q10.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Delegates 16 Questions\Q10\obj\Debug\Q10.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Delegates 16 Questions\Q10\obj\Debug\Q10.exe
+D:\QuestTraining2024\Delegates 16 Questions\Q10\obj\Debug\Q10.pdb
