@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day 15\LINQ\bin\Debug\LINQ.exe.config
+D:\QuestTraining2024\Day 15\LINQ\bin\Debug\LINQ.exe
+D:\QuestTraining2024\Day 15\LINQ\bin\Debug\LINQ.pdb
+D:\QuestTraining2024\Day 15\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day 15\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day 15\LINQ\obj\Debug\LINQ.exe
+D:\QuestTraining2024\Day 15\LINQ\obj\Debug\LINQ.pdb

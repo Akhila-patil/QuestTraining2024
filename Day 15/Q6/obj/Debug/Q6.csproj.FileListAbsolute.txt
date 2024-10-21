@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day 15\Q6\bin\Debug\Q6.exe.config
+D:\QuestTraining2024\Day 15\Q6\bin\Debug\Q6.exe
+D:\QuestTraining2024\Day 15\Q6\bin\Debug\Q6.pdb
+D:\QuestTraining2024\Day 15\Q6\obj\Debug\Q6.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day 15\Q6\obj\Debug\Q6.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day 15\Q6\obj\Debug\Q6.exe
+D:\QuestTraining2024\Day 15\Q6\obj\Debug\Q6.pdb

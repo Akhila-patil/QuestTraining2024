@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day 15\PatientManagementSystem\bin\Debug\PatientManagementSystem.exe.config
+D:\QuestTraining2024\Day 15\PatientManagementSystem\bin\Debug\PatientManagementSystem.exe
+D:\QuestTraining2024\Day 15\PatientManagementSystem\bin\Debug\PatientManagementSystem.pdb
+D:\QuestTraining2024\Day 15\PatientManagementSystem\obj\Debug\PatientManagementSystem.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day 15\PatientManagementSystem\obj\Debug\PatientManagementSystem.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day 15\PatientManagementSystem\obj\Debug\PatientManagementSystem.exe
+D:\QuestTraining2024\Day 15\PatientManagementSystem\obj\Debug\PatientManagementSystem.pdb

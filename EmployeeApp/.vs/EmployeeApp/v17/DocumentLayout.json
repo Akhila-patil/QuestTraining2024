@@ -15,15 +15,6 @@
       "AbsoluteMoniker": "D:0:0:{9CA0D55D-E90D-4245-98CE-5B9557DF6D5D}|..\\Delegates 16 Questions\\Q8\\Q8.csproj|d:\\questtraining2024\\delegates 16 questions\\q8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D5383B1-6C44-41F0-A57D-76CB638C4FE5}|..\\Delegates 16 Questions\\FunctionDelegate(7)\\FunctionDelegate(7).csproj|d:\\questtraining2024\\delegates 16 questions\\functiondelegate(7)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E4BF2AB-320E-45D7-8F13-D6D22F6F432A}|..\\Delegates 16 Questions\\calculator\\calculator.csproj|d:\\questtraining2024\\delegates 16 questions\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC286344-0842-4D14-9936-424B6BA3A447}|..\\Delegates 16 Questions\\Shape\\Shape.csproj|d:\\questtraining2024\\delegates 16 questions\\shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BA5B3FA4-4A0A-4920-8483-3AF2A1C1A11C}|..\\Day 14\\Q1\\Q1.csproj|d:\\questtraining2024\\day 14\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -48,18 +39,6 @@
       "AbsoluteMoniker": "D:0:0:{125601A9-7CE3-448B-AA2A-0D68B068C80A}|..\\BookMangementApp\\BookMangementApp.csproj|d:\\questtraining2024\\bookmangementapp\\entities\\categories\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07255531-6581-498F-91AB-3C8ED7A8C151}|..\\Delegates 16 Questions\\IAnimal\\IAnimal.csproj|d:\\questtraining2024\\delegates 16 questions\\ianimal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C523EFF6-775E-4E8B-98F2-679C8665FAE8}|..\\Delegates 16 Questions\\Vehicle\\Vehicle.csproj|d:\\questtraining2024\\delegates 16 questions\\vehicle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ECAB56B-0239-44B7-82B8-333752361F0E}|..\\Delegates 16 Questions\\Printingmessage\\Printingmessage.csproj|d:\\questtraining2024\\delegates 16 questions\\printingmessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{886D063C-5B28-45AC-9CCD-BAA0062C6A75}|..\\Delegates 16 Questions\\delegateOperations\\delegateOperations.csproj|d:\\questtraining2024\\delegates 16 questions\\delegateoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pk\\Downloads\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -78,8 +57,29 @@
       "AbsoluteMoniker": "D:0:0:{125601A9-7CE3-448B-AA2A-0D68B068C80A}|..\\BookMangementApp\\BookMangementApp.csproj|d:\\questtraining2024\\bookmangementapp\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BF81B79-D11A-410D-BD92-514948B511C4}|EmployeeApp.csproj|d:\\questtraining2024\\employeeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BF81B79-D11A-410D-BD92-514948B511C4}|EmployeeApp.csproj|D:\\QuestTraining2024\\EmployeeApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BF81B79-D11A-410D-BD92-514948B511C4}|EmployeeApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Delegates 16 Questions\\FunctionDelegate(7)\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Delegates 16 Questions\\Shape\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Delegates 16 Questions\\calculator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Delegates 16 Questions\\Printingmessage\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Delegates 16 Questions\\delegateOperations\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Delegates 16 Questions\\IAnimal\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Delegates 16 Questions\\Vehicle\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -89,24 +89,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q16\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\Q16\\Program.cs",
-              "ToolTip": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q16\\Program.cs",
-              "RelativeToolTip": "..\\Delegates 16 Questions\\Q16\\Program.cs",
-              "ViewState": "AgIAAAsAAADAqaqqqmoqwBoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T11:41:23.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q15\\Program.cs",
               "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\Q15\\Program.cs",
@@ -114,12 +101,11 @@
               "RelativeToolTip": "..\\Delegates 16 Questions\\Q15\\Program.cs",
               "ViewState": "AgIAAAIAAABwqqqqquonwBsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T11:35:39.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T11:35:39.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q14\\Program.cs",
               "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\Q14\\Program.cs",
@@ -127,12 +113,11 @@
               "RelativeToolTip": "..\\Delegates 16 Questions\\Q14\\Program.cs",
               "ViewState": "AgIAAA8AAADApaqqqqodwBgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T11:30:06.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T11:30:06.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\FunctionDelegate(7)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\FunctionDelegate(7)\\Program.cs",
@@ -140,86 +125,7 @@
               "RelativeToolTip": "..\\Delegates 16 Questions\\FunctionDelegate(7)\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T10:17:21.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\QuestTraining2024\\Day 14\\Q1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Day 14\\Q1\\Program.cs",
-              "ToolTip": "D:\\QuestTraining2024\\Day 14\\Q1\\Program.cs",
-              "RelativeToolTip": "..\\Day 14\\Q1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T05:12:14.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Shape\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\Shape\\Program.cs",
-              "ToolTip": "D:\\QuestTraining2024\\Delegates 16 Questions\\Shape\\Program.cs",
-              "RelativeToolTip": "..\\Delegates 16 Questions\\Shape\\Program.cs",
-              "ViewState": "AgIAAAMAAADIhKqqquoqwEcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T07:08:29.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\calculator\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\calculator\\Program.cs",
-              "ToolTip": "D:\\QuestTraining2024\\Delegates 16 Questions\\calculator\\Program.cs",
-              "RelativeToolTip": "..\\Delegates 16 Questions\\calculator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T09:37:58.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q8\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\Q8\\Program.cs",
-              "ToolTip": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q8\\Program.cs",
-              "RelativeToolTip": "..\\Delegates 16 Questions\\Q8\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T10:25:45.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q9\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\Q9\\Program.cs",
-              "ToolTip": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q9\\Program.cs",
-              "RelativeToolTip": "..\\Delegates 16 Questions\\Q9\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T10:44:20.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q10\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\Q10\\Program.cs",
-              "ToolTip": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q10\\Program.cs",
-              "RelativeToolTip": "..\\Delegates 16 Questions\\Q10\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T10:55:24.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T10:17:21.946Z"
             },
             {
               "$type": "Document",
@@ -236,7 +142,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q16\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\Q16\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q16\\Program.cs",
+              "RelativeToolTip": "..\\Delegates 16 Questions\\Q16\\Program.cs",
+              "ViewState": "AgIAAAsAAADAqaqqqmoqwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:41:23.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day 14\\Q1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 14\\Q1\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Day 14\\Q1\\Program.cs",
+              "RelativeToolTip": "..\\Day 14\\Q1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:12:14.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Shape\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\Shape\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Delegates 16 Questions\\Shape\\Program.cs",
+              "RelativeToolTip": "..\\Delegates 16 Questions\\Shape\\Program.cs",
+              "ViewState": "AgIAAAMAAADIhKqqquoqwEcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:08:29.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\calculator\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\calculator\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Delegates 16 Questions\\calculator\\Program.cs",
+              "RelativeToolTip": "..\\Delegates 16 Questions\\calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:37:58.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\Q8\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q8\\Program.cs",
+              "RelativeToolTip": "..\\Delegates 16 Questions\\Q8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:25:45.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q9\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\Q9\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q9\\Program.cs",
+              "RelativeToolTip": "..\\Delegates 16 Questions\\Q9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:44:20.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q10\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\Q10\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q10\\Program.cs",
+              "RelativeToolTip": "..\\Delegates 16 Questions\\Q10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:55:24.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q13\\Program.cs",
               "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\Q13\\Program.cs",
@@ -244,12 +234,11 @@
               "RelativeToolTip": "..\\Delegates 16 Questions\\Q13\\Program.cs",
               "ViewState": "AgIAAAUAAAAAmaqqqqrmvxQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T11:25:02.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T11:25:02.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q12\\Program.cs",
               "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\Q12\\Program.cs",
@@ -257,12 +246,11 @@
               "RelativeToolTip": "..\\Delegates 16 Questions\\Q12\\Program.cs",
               "ViewState": "AgIAAAUAAAAAqKqqqqoGwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T11:13:23.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T11:13:23.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\Day 14\\Delegates\\Program.cs",
               "RelativeDocumentMoniker": "..\\Day 14\\Delegates\\Program.cs",
@@ -270,12 +258,11 @@
               "RelativeToolTip": "..\\Day 14\\Delegates\\Program.cs",
               "ViewState": "AgIAADMAAAAA3f///78twDkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T06:07:53.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T06:07:53.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Printingmessage\\Program.cs",
               "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\Printingmessage\\Program.cs",
@@ -283,12 +270,11 @@
               "RelativeToolTip": "..\\Delegates 16 Questions\\Printingmessage\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T10:09:24.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T10:09:24.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\delegateOperations\\Program.cs",
               "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\delegateOperations\\Program.cs",
@@ -296,12 +282,11 @@
               "RelativeToolTip": "..\\Delegates 16 Questions\\delegateOperations\\Program.cs",
               "ViewState": "AgIAAAUAAACA/////38pwBMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T09:53:07.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T09:53:07.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\IAnimal\\Program.cs",
               "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\IAnimal\\Program.cs",
@@ -309,12 +294,11 @@
               "RelativeToolTip": "..\\Delegates 16 Questions\\IAnimal\\Program.cs",
               "ViewState": "AgIAAAgAAAB4VVVVVfU1wBkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T09:26:42.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T09:26:42.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Vehicle\\Program.cs",
               "RelativeDocumentMoniker": "..\\Delegates 16 Questions\\Vehicle\\Program.cs",
@@ -322,12 +306,11 @@
               "RelativeToolTip": "..\\Delegates 16 Questions\\Vehicle\\Program.cs",
               "ViewState": "AgIAAC4AAACApaqqqqojwC8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T09:05:13.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T09:05:13.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "Books.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\BookMangementApp\\Entities\\Categories\\Books.cs",
               "RelativeDocumentMoniker": "..\\BookMangementApp\\Entities\\Categories\\Books.cs",
@@ -335,23 +318,21 @@
               "RelativeToolTip": "..\\BookMangementApp\\Entities\\Categories\\Books.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T04:16:47.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T04:16:47.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pk\\Downloads\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Program.cs",
               "ToolTip": "C:\\Users\\pk\\Downloads\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T04:31:39.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T04:31:39.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 14,
               "Title": "IStorageServices.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\BookMangementApp\\Services\\IStorageServices.cs",
               "RelativeDocumentMoniker": "..\\BookMangementApp\\Services\\IStorageServices.cs",
@@ -359,12 +340,11 @@
               "RelativeToolTip": "..\\BookMangementApp\\Services\\IStorageServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T04:20:38.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T04:20:38.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 15,
               "Title": "JsonFileStorage.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\BookMangementApp\\Services\\JsonFileStorage.cs",
               "RelativeDocumentMoniker": "..\\BookMangementApp\\Services\\JsonFileStorage.cs",
@@ -372,12 +352,11 @@
               "RelativeToolTip": "..\\BookMangementApp\\Services\\JsonFileStorage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T04:19:51.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T04:19:51.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 16,
               "Title": "CustumStorageServices.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\BookMangementApp\\Services\\CustumStorageServices.cs",
               "RelativeDocumentMoniker": "..\\BookMangementApp\\Services\\CustumStorageServices.cs",
@@ -385,12 +364,11 @@
               "RelativeToolTip": "..\\BookMangementApp\\Services\\CustumStorageServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T04:17:59.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T04:17:59.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 17,
               "Title": "BookManager.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\BookMangementApp\\BookManager.cs",
               "RelativeDocumentMoniker": "..\\BookMangementApp\\BookManager.cs",
@@ -398,12 +376,11 @@
               "RelativeToolTip": "..\\BookMangementApp\\BookManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T04:09:55.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T04:09:55.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\BookMangementApp\\Program.cs",
               "RelativeDocumentMoniker": "..\\BookMangementApp\\Program.cs",
@@ -411,12 +388,11 @@
               "RelativeToolTip": "..\\BookMangementApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T04:01:03.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T04:01:03.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QuestTraining2024\\EmployeeApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -424,8 +400,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T03:22:28.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T03:22:28.34Z"
             }
           ]
         }

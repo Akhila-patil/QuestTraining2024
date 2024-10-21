@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day 15\Person\bin\Debug\Person.exe.config
+D:\QuestTraining2024\Day 15\Person\bin\Debug\Person.exe
+D:\QuestTraining2024\Day 15\Person\bin\Debug\Person.pdb
+D:\QuestTraining2024\Day 15\Person\obj\Debug\Person.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day 15\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day 15\Person\obj\Debug\Person.exe
+D:\QuestTraining2024\Day 15\Person\obj\Debug\Person.pdb

@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day 15\Joins\bin\Debug\Joins.exe.config
+D:\QuestTraining2024\Day 15\Joins\bin\Debug\Joins.exe
+D:\QuestTraining2024\Day 15\Joins\bin\Debug\Joins.pdb
+D:\QuestTraining2024\Day 15\Joins\obj\Debug\Joins.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day 15\Joins\obj\Debug\Joins.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day 15\Joins\obj\Debug\Joins.exe
+D:\QuestTraining2024\Day 15\Joins\obj\Debug\Joins.pdb
