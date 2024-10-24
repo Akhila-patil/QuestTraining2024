@@ -55,8 +55,7 @@ namespace PatientDoctorUsingList
                     case "8":
                         DeleteDoctor(doctorRepository);
                         break;
-                    case "9":
-                        return;
+
                     default:
                         Console.WriteLine("Invalid choice, try again.");
                         break;

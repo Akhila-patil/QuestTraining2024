@@ -51,38 +51,8 @@ namespace PatientAndDoctorManagementSystem
     {
         static void Main(string[] args)
         {
-            var connStr = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\pk\Documents\QuestDB.mdf;Integrated Security=True;Connect Timeout=30";
-           
-            //var createTableQuery = @"CREATE TABLE PATIENTS
-            //                      (
-            //                        id INT PRIMARY KEY IDENTITY,
-            //                        Name VARCHAR(50) NOT NULL,
-            //                        Age INT NOT NULL,
-            //                        Gender VARCHAR(20) NOT NULL,
-            //                        MedicalCondition VARCHAR(200) NOT NULL
-            //                        )";
-            //var conn=new SqlConnection(connStr);
-            //conn.Open();
-            //var command=new SqlCommand(createTableQuery,conn);
-            //command.ExecuteNonQuery();
-            //conn.Close();
 
-            //var createTableQuery1 = @"CREATE TABLE DOCTORS
-            //                      (
-            //                        id INT PRIMARY KEY IDENTITY,
-            //                        Name VARCHAR(50) NOT NULL,
-            //                        Specialization VARCHAR(50),
-            //                        patientId int ,
-            //                        CONSTRAINT fk_id FOREIGN KEY(PatientId) REFERENCES PATIENTS(id);
-            //                        )";
-            //var conn1 = new SqlConnection(connStr);
-            //conn.Open();
-            //var command1 = new SqlCommand(createTableQuery1, conn);
-            //command.ExecuteNonQuery();
-            //conn.Close();
-
-
-             PatientRepository patientRepo=new PatientRepository(connStr);
+            PatientRepository patientRepo =new PatientRepository(connStr);
             Doctorrepository doctorrepository = new Doctorrepository(connStr);
 
             while (true)

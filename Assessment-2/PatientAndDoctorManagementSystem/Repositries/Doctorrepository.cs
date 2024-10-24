@@ -16,6 +16,27 @@ namespace PatientAndDoctorManagementSystem.Repositries
             _connectionString = ConnectionString;
 
         }
+        public Doctorrepository()
+        {
+            createDoctorTable();
+        }
+        private void createDoctorTable()
+        {
+            var connStr = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\pk\Documents\QuestDB.mdf;Integrated Security=True;Connect Timeout=30";
+            var createTableQuery1 = @"CREATE TABLE DOCTORS
+                                  (
+                                    id INT PRIMARY KEY IDENTITY,
+                                    Name VARCHAR(50) NOT NULL,
+                                    Specialization VARCHAR(50),
+                                    patientId int ,
+                                    CONSTRAINT fk_id FOREIGN KEY(PatientId) REFERENCES PATIENTS(id);
+                                    )";
+            var conn  = new SqlConnection(connStr);
+            conn.Open();
+            var command = new SqlCommand(createTableQuery1, conn);
+            command.ExecuteNonQuery();
+            conn.Close();
+        }
         public void AddDoctor(Doctor doctor)
         {
             List<Doctor> doctors = new List<Doctor>();
