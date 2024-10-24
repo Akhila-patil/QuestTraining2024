@@ -52,6 +52,7 @@ namespace PatientAndDoctorManagementSystem
         static void Main(string[] args)
         {
             var connStr = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\pk\Documents\QuestDB.mdf;Integrated Security=True;Connect Timeout=30";
+           
             //var createTableQuery = @"CREATE TABLE PATIENTS
             //                      (
             //                        id INT PRIMARY KEY IDENTITY,
@@ -184,6 +185,72 @@ namespace PatientAndDoctorManagementSystem
         Console.WriteLine("Patient updated successfully.");
     }
 
+    private static void DeletePatient()
+    {
+        Console.WriteLine("Enter patient ID to delete:");
+        var id = int.Parse(Console.ReadLine());
+
+        var patientRepo = new PatientRepository(connStr);
+        patientRepo.DeletePatient(id);
+        Console.WriteLine("Patient deleted successfully.");
+
+    }
+
+
+    private static void AddDoctor()
+    {
+        Console.Write("Enter doctor name: ");
+        var name = Console.ReadLine();
+        Console.Write("Enter specialization: ");
+        var specialization = Console.ReadLine();
+        Console.Write("Enter patient Id (if any, or leave blank): ");
+        var patientIdInput = Console.ReadLine();
+        int? patientId = string.IsNullOrEmpty(patientIdInput) ? (int?)null : int.Parse(patientIdInput);
+
+        var doctorRepo = new Doctorrepository(connStr);
+        doctorRepo.AddDoctor(new Doctor { Name = name, Specialization = specialization, PatientId = patientId });
+        Console.WriteLine("Doctor added successfully.");
+    }
+
+    private static void GetAllDoctor()
+    {
+        var doctorRepo = new Doctorrepository(connStr);
+        var doctors = doctorRepo.GetAllDoctors();
+        foreach (var doctor in doctors)
+        {
+            Console.WriteLine($"Id: {doctor.Id}, Name: {doctor.Name}, Specialization: {doctor.Specialization}, PatientId: {doctor.PatientId}");
+        }
+    }
+
+    private static void UpdateDoctor()
+    {
+        Console.Write("Enter doctor ID to update: ");
+        var id = int.Parse(Console.ReadLine());
+
+        Console.Write("Enter new doctor name: ");
+        var name = Console.ReadLine();
+
+        Console.Write("Enter new specialization: ");
+        var specialization = Console.ReadLine();
+
+        Console.Write("Enter new patient Id : ");
+        var patientIdInput = Console.ReadLine();
+        int? patientId = string.IsNullOrEmpty(patientIdInput) ? (int?)null : int.Parse(patientIdInput);
+
+        var doctorRepo = new Doctorrepository(connStr);
+        doctorRepo.UpdateDoctor(new Doctor { Id = id, Name = name, Specialization = specialization, PatientId = patientId });
+        Console.WriteLine("Doctor updated successfully.");
+    }
+
+    private static void DeleteDoctor()
+    {
+        Console.Write("Enter doctor ID to delete: ");
+        var id = int.Parse(Console.ReadLine());
+
+        var doctorRepo = new Doctorrepository(connStr);
+        doctorRepo.DeleteDoctor(id);
+        Console.WriteLine("Doctor deleted successfully.");
+    }
 
 
 
