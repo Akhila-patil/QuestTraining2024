@@ -1,0 +1,7 @@
+D:\QuestTraining2024\QuestTraining\Day6-sql\bin\Debug\Day6-sql.exe.config
+D:\QuestTraining2024\QuestTraining\Day6-sql\bin\Debug\Day6-sql.exe
+D:\QuestTraining2024\QuestTraining\Day6-sql\bin\Debug\Day6-sql.pdb
+D:\QuestTraining2024\QuestTraining\Day6-sql\obj\Debug\Day6-sql.csproj.AssemblyReference.cache
+D:\QuestTraining2024\QuestTraining\Day6-sql\obj\Debug\Day6-sql.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\QuestTraining\Day6-sql\obj\Debug\Day6-sql.exe
+D:\QuestTraining2024\QuestTraining\Day6-sql\obj\Debug\Day6-sql.pdb

@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day16\CircleAndRectangle\bin\Debug\CircleAndRectangle.exe.config
+D:\QuestTraining2024\Day16\CircleAndRectangle\bin\Debug\CircleAndRectangle.exe
+D:\QuestTraining2024\Day16\CircleAndRectangle\bin\Debug\CircleAndRectangle.pdb
+D:\QuestTraining2024\Day16\CircleAndRectangle\obj\Debug\CircleAndRectangle.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day16\CircleAndRectangle\obj\Debug\CircleAndRectangle.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day16\CircleAndRectangle\obj\Debug\CircleAndRectangle.exe
+D:\QuestTraining2024\Day16\CircleAndRectangle\obj\Debug\CircleAndRectangle.pdb

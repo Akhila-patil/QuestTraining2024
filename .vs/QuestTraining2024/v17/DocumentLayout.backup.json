@@ -1,12 +1,396 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\QuestTraining2024\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Delegates 16 Questions\\Q4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Delegates 16 Questions\\Q4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Delegates 16 Questions\\Q3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Delegates 16 Questions\\Q3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\QuestTraining\\Day7\\Assignment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuestTraining\\Day7\\Assignment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\QuestTraining\\Day9\\Patient Database\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuestTraining\\Day9\\Patient Database\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Day 11\\ClassAndObject\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day 11\\ClassAndObject\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Day 14\\Delegates\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day 14\\Delegates\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Day 15\\Person\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day 15\\Person\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Day 15\\Q1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day 15\\Q1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Delegates 16 Questions\\Q2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Delegates 16 Questions\\Q2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Delegates 16 Questions\\Q1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Delegates 16 Questions\\Q1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Day 14\\Q1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day 14\\Q1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\QuestTraining\\ExploringLibraries\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuestTraining\\ExploringLibraries\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\QuestTraining\\Day7\\Assignment(Theory)||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuestTraining\\Day7\\Assignment(Theory)||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\QuestTraining\\Day6-sql\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuestTraining\\Day6-sql\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Day6 Sql\\Assignment-CourseTable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day6 Sql\\Assignment-CourseTable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Day6 Sql\\UserTable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day6 Sql\\UserTable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Day6 Sql\\patientTable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day6 Sql\\patientTable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Day6 Sql\\Assignment-Patient.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day6 Sql\\Assignment-Patient.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Day 15\\Extensionns\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day 15\\Extensionns\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Day 13\\Interfaces\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day 13\\Interfaces\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Day 13\\Static\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day 13\\Static\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\Assignment(creditCard)\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment(creditCard)\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\QuestTraining2024\\QuestTraining\\Day7\\Assignment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuestTraining\\Day7\\Assignment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q4\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates 16 Questions\\Q4\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q4\\Program.cs",
+              "RelativeToolTip": "Delegates 16 Questions\\Q4\\Program.cs",
+              "ViewState": "AgIAAA0AAACgmZmZmRkmwB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:42:38.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q3\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates 16 Questions\\Q3\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q3\\Program.cs",
+              "RelativeToolTip": "Delegates 16 Questions\\Q3\\Program.cs",
+              "ViewState": "AgIAAA4AAACA1szMzMwXwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:40:38.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q2\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates 16 Questions\\Q2\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q2\\Program.cs",
+              "RelativeToolTip": "Delegates 16 Questions\\Q2\\Program.cs",
+              "ViewState": "AgIAADkAAAAAOjMzM7MSwA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:39:39.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q1\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates 16 Questions\\Q1\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Delegates 16 Questions\\Q1\\Program.cs",
+              "RelativeToolTip": "Delegates 16 Questions\\Q1\\Program.cs",
+              "ViewState": "AgIAAAAAAADQWmZmZiYgwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:36:30.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day 15\\Q1\\Program.cs",
+              "RelativeDocumentMoniker": "Day 15\\Q1\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Day 15\\Q1\\Program.cs",
+              "RelativeToolTip": "Day 15\\Q1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:36:15.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day 15\\Person\\Program.cs",
+              "RelativeDocumentMoniker": "Day 15\\Person\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Day 15\\Person\\Program.cs",
+              "RelativeToolTip": "Day 15\\Person\\Program.cs",
+              "ViewState": "AgIAAC4AAACAZmZmZmYkwD0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:34:40.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day 14\\Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Day 14\\Delegates\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Day 14\\Delegates\\Program.cs",
+              "RelativeToolTip": "Day 14\\Delegates\\Program.cs",
+              "ViewState": "AgIAAC4AAACAMjMzM3MvwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:31:39.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day 11\\ClassAndObject\\Program.cs",
+              "RelativeDocumentMoniker": "Day 11\\ClassAndObject\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Day 11\\ClassAndObject\\Program.cs",
+              "RelativeToolTip": "Day 11\\ClassAndObject\\Program.cs",
+              "ViewState": "AgIAAAIAAABYMjMzM5MwwBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:01:57.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\QuestTraining\\Day9\\Patient Database\\Program.cs",
+              "RelativeDocumentMoniker": "QuestTraining\\Day9\\Patient Database\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\QuestTraining\\Day9\\Patient Database\\Program.cs",
+              "RelativeToolTip": "QuestTraining\\Day9\\Patient Database\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAMzMzM7MiwB8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:52:47.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment.sql ",
+              "DocumentMoniker": "D:\\QuestTraining2024\\QuestTraining\\Day7\\Assignment.sql",
+              "RelativeDocumentMoniker": "QuestTraining\\Day7\\Assignment.sql",
+              "ToolTip": "Assignment.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-23T13:48:02.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Assignment(Theory)",
+              "DocumentMoniker": "D:\\QuestTraining2024\\QuestTraining\\Day7\\Assignment(Theory)",
+              "RelativeDocumentMoniker": "QuestTraining\\Day7\\Assignment(Theory)",
+              "ToolTip": "D:\\QuestTraining2024\\QuestTraining\\Day7\\Assignment(Theory)",
+              "RelativeToolTip": "QuestTraining\\Day7\\Assignment(Theory)",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-23T13:48:00.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\QuestTraining\\Day6-sql\\Program.cs",
+              "RelativeDocumentMoniker": "QuestTraining\\Day6-sql\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\QuestTraining\\Day6-sql\\Program.cs",
+              "RelativeToolTip": "QuestTraining\\Day6-sql\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:47:47.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Assignment-CourseTable.sql",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day6 Sql\\Assignment-CourseTable.sql",
+              "RelativeDocumentMoniker": "Day6 Sql\\Assignment-CourseTable.sql",
+              "ToolTip": "D:\\QuestTraining2024\\Day6 Sql\\Assignment-CourseTable.sql",
+              "RelativeToolTip": "Day6 Sql\\Assignment-CourseTable.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-23T13:42:26.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserTable.sql",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day6 Sql\\UserTable.sql",
+              "RelativeDocumentMoniker": "Day6 Sql\\UserTable.sql",
+              "ToolTip": "D:\\QuestTraining2024\\Day6 Sql\\UserTable.sql",
+              "RelativeToolTip": "Day6 Sql\\UserTable.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-23T13:42:21.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "patientTable.sql",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day6 Sql\\patientTable.sql",
+              "RelativeDocumentMoniker": "Day6 Sql\\patientTable.sql",
+              "ToolTip": "D:\\QuestTraining2024\\Day6 Sql\\patientTable.sql",
+              "RelativeToolTip": "Day6 Sql\\patientTable.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-23T13:42:18.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day 14\\Q1\\Program.cs",
+              "RelativeDocumentMoniker": "Day 14\\Q1\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Day 14\\Q1\\Program.cs",
+              "RelativeToolTip": "Day 14\\Q1\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAgAAAIAZwCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:10:10.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\QuestTraining\\ExploringLibraries\\Program.cs",
+              "RelativeDocumentMoniker": "QuestTraining\\ExploringLibraries\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\QuestTraining\\ExploringLibraries\\Program.cs",
+              "RelativeToolTip": "QuestTraining\\ExploringLibraries\\Program.cs",
+              "ViewState": "AgIAAAAAAACAAAAAAAABwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:53:16.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Assignment-Patient.sql",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day6 Sql\\Assignment-Patient.sql",
+              "RelativeDocumentMoniker": "Day6 Sql\\Assignment-Patient.sql",
+              "ToolTip": "D:\\QuestTraining2024\\Day6 Sql\\Assignment-Patient.sql",
+              "RelativeToolTip": "Day6 Sql\\Assignment-Patient.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-23T13:41:52.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day 15\\Extensionns\\Program.cs",
+              "RelativeDocumentMoniker": "Day 15\\Extensionns\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Day 15\\Extensionns\\Program.cs",
+              "RelativeToolTip": "Day 15\\Extensionns\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:22:00.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day 13\\Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Day 13\\Interfaces\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Day 13\\Interfaces\\Program.cs",
+              "RelativeToolTip": "Day 13\\Interfaces\\Program.cs",
+              "ViewState": "AgIAAAcAAAAwdWZmZmYEwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:10:25.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Day 13\\Static\\Program.cs",
+              "RelativeDocumentMoniker": "Day 13\\Static\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Day 13\\Static\\Program.cs",
+              "RelativeToolTip": "Day 13\\Static\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:09:16.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuestTraining2024\\Assignment(creditCard)\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment(creditCard)\\Program.cs",
+              "ToolTip": "D:\\QuestTraining2024\\Assignment(creditCard)\\Program.cs",
+              "RelativeToolTip": "Assignment(creditCard)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:07:53.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

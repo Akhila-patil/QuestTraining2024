@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day 17\DeleteItlater\bin\Debug\DeleteItlater.exe.config
+D:\QuestTraining2024\Day 17\DeleteItlater\bin\Debug\DeleteItlater.exe
+D:\QuestTraining2024\Day 17\DeleteItlater\bin\Debug\DeleteItlater.pdb
+D:\QuestTraining2024\Day 17\DeleteItlater\obj\Debug\DeleteItlater.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day 17\DeleteItlater\obj\Debug\DeleteItlater.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day 17\DeleteItlater\obj\Debug\DeleteItlater.exe
+D:\QuestTraining2024\Day 17\DeleteItlater\obj\Debug\DeleteItlater.pdb

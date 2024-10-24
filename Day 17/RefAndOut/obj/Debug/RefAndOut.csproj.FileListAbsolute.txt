@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day 17\RefAndOut\bin\Debug\RefAndOut.exe.config
+D:\QuestTraining2024\Day 17\RefAndOut\bin\Debug\RefAndOut.exe
+D:\QuestTraining2024\Day 17\RefAndOut\bin\Debug\RefAndOut.pdb
+D:\QuestTraining2024\Day 17\RefAndOut\obj\Debug\RefAndOut.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day 17\RefAndOut\obj\Debug\RefAndOut.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day 17\RefAndOut\obj\Debug\RefAndOut.exe
+D:\QuestTraining2024\Day 17\RefAndOut\obj\Debug\RefAndOut.pdb

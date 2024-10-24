@@ -21,6 +21,7 @@ namespace PersonGetSet
             p.Addresses = new List<Address>();
             p.Addresses.Add(new Address { AddressType = "Home", AddressLine1 = "Moshi", AddressLine2 = "Dehu" });
             p.Addresses.Add(new Address { AddressType = "office", AddressLine1 = "pune", AddressLine2 = "hinjewadi" });
+            foreach(var ad in )
 
            
 

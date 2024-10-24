@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day 14\Delegates\bin\Release\Delegates.exe.config
+D:\QuestTraining2024\Day 14\Delegates\bin\Release\Delegates.exe
+D:\QuestTraining2024\Day 14\Delegates\bin\Release\Delegates.pdb
+D:\QuestTraining2024\Day 14\Delegates\obj\Release\Delegates.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day 14\Delegates\obj\Release\Delegates.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day 14\Delegates\obj\Release\Delegates.exe
+D:\QuestTraining2024\Day 14\Delegates\obj\Release\Delegates.pdb

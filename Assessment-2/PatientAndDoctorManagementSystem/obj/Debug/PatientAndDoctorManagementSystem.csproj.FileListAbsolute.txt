@@ -1,0 +1,2 @@
+D:\QuestTraining2024\Assessment-2\PatientAndDoctorManagementSystem\obj\Debug\PatientAndDoctorManagementSystem.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Assessment-2\PatientAndDoctorManagementSystem\obj\Debug\PatientAndDoctorManagementSystem.csproj.CoreCompileInputs.cache

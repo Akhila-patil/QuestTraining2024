@@ -11,17 +11,15 @@ namespace delegateOperations
 
         public delegate void Operations(int x, int y);
 
-        public static void Add(int x, int y)
-        {
-            Console.WriteLine($"Addition is:{x + y}");
-        }
-        public static void Sub(int x,int y)
-        {
-            Console.WriteLine($"Subraction :{x - y}");
-        }
+
+        public  static void Add(int a, int b) => Console.WriteLine($"Addition:{a + b}");
 
 
-         
+        public static  void Sub(int a, int b) => Console.WriteLine($"Subtraction:{a - b}");
+
+
+
+
         static void Main(string[] args)
         {
             Operations op = Add;

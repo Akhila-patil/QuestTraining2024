@@ -11,7 +11,7 @@ namespace calculator
 
          public interface ICalculator
         {
-            int Add(int a, int b);
+             int Add(int a, int b);
             int substract(int a, int b);
         }
          public class Calculator :ICalculator
@@ -29,7 +29,7 @@ namespace calculator
         
         static void Main(string[] args)
         {
-            ICalculator c = new Calculator();
+            Calculator c = new Calculator();
             int sum = c.Add(1, 2);
             int diff = c.substract(10, 5);
 

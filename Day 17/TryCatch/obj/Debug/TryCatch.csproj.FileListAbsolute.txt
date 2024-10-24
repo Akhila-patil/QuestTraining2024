@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day 17\TryCatch\bin\Debug\TryCatch.exe.config
+D:\QuestTraining2024\Day 17\TryCatch\bin\Debug\TryCatch.exe
+D:\QuestTraining2024\Day 17\TryCatch\bin\Debug\TryCatch.pdb
+D:\QuestTraining2024\Day 17\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day 17\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day 17\TryCatch\obj\Debug\TryCatch.exe
+D:\QuestTraining2024\Day 17\TryCatch\obj\Debug\TryCatch.pdb

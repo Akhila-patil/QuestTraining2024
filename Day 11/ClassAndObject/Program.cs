@@ -23,6 +23,11 @@ namespace ClassAndObject
         {
             Employee employee1 = new Employee();
             employee1.firstname = "Akhila";
+            employee1.lastname = "Patil";
+            employee1.salary = 5000;
+
+            Console.WriteLine(employee1.salary);
+
 
         }
     }

@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day16\ContactDataBase\bin\Debug\ContactDataBase.exe.config
+D:\QuestTraining2024\Day16\ContactDataBase\bin\Debug\ContactDataBase.exe
+D:\QuestTraining2024\Day16\ContactDataBase\bin\Debug\ContactDataBase.pdb
+D:\QuestTraining2024\Day16\ContactDataBase\obj\Debug\ContactDataBase.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day16\ContactDataBase\obj\Debug\ContactDataBase.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day16\ContactDataBase\obj\Debug\ContactDataBase.exe
+D:\QuestTraining2024\Day16\ContactDataBase\obj\Debug\ContactDataBase.pdb

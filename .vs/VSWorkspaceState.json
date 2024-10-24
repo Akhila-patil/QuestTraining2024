@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\ArrayAndClass",
+    "\\CalculatorClass",
+    "\\ClassAndObject\\ArrayAndList",
+    "\\Day 11\\ArrayAndClass",
+    "\\Day 13",
     "\\Day 13\\Enum",
-    "\\Day 14\\Q1",
-    "\\Day12\\Inheritance",
-    "\\QuestTraining\\Day8",
-    "\\QuestTraining\\Day9\\StoreProductStock"
+    "\\Delegates 16 Questions",
+    "\\Delegates 16 Questions\\Q1",
+    "\\Delegates 16 Questions\\Q9"
   ],
-  "SelectedNode": "\\Day12",
+  "SelectedNode": "\\Delegates 16 Questions\\Q9\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

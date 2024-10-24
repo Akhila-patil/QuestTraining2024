@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day16\DictionaryDataType\bin\Debug\DictionaryDataType.exe.config
+D:\QuestTraining2024\Day16\DictionaryDataType\bin\Debug\DictionaryDataType.exe
+D:\QuestTraining2024\Day16\DictionaryDataType\bin\Debug\DictionaryDataType.pdb
+D:\QuestTraining2024\Day16\DictionaryDataType\obj\Debug\DictionaryDataType.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day16\DictionaryDataType\obj\Debug\DictionaryDataType.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day16\DictionaryDataType\obj\Debug\DictionaryDataType.exe
+D:\QuestTraining2024\Day16\DictionaryDataType\obj\Debug\DictionaryDataType.pdb
