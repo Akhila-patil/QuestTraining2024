@@ -14,7 +14,6 @@ namespace PatientAndDoctorManagementSystem.Repositries
         public  PatientRepository(string ConnectionString)
         {
              _connectionString = ConnectionString;
-
         }
         public  PatientRepository()
         {
@@ -22,7 +21,7 @@ namespace PatientAndDoctorManagementSystem.Repositries
         }
         public void CreatePatientTable()
         {
-            var connStr = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\pk\Documents\QuestDB.mdf;Integrated Security=True;Connect Timeout=30";
+            
 
             var createTableQuery = @"CREATE TABLE PATIENTS
                                   (
@@ -32,7 +31,7 @@ namespace PatientAndDoctorManagementSystem.Repositries
                                     Gender VARCHAR(20) NOT NULL,
                                     MedicalCondition VARCHAR(200) NOT NULL
                                     )";
-            var conn = new SqlConnection(connStr);
+            var conn = new SqlConnection(_connectionString);
             conn.Open();
             var command = new SqlCommand(createTableQuery, conn);
             command.ExecuteNonQuery();
@@ -44,11 +43,11 @@ namespace PatientAndDoctorManagementSystem.Repositries
         {
             using (SqlConnection conn = new SqlConnection(_connectionString)) 
             {
-                string query = "INSERT INTO Patients (Name, Age, Gender, MedicalCondition) VALUES (@Name, @Age, @Gender, @MedicalCondition)";
-                SqlCommand cmd = new SqlCommand(query, conn);
+                string insertQuery = "INSERT INTO Patients (Name, Age, Gender, MedicalCondition) VALUES (@Name, @Age, @Gender, @MedicalCondition)";
+                SqlCommand cmd = new SqlCommand(insertQuery, conn);
                 cmd.Parameters.AddWithValue("@Name", patient.Name);
                 cmd.Parameters.AddWithValue("@Age", patient.Age);
-                cmd.Parameters.AddWithValue("@Gender", patient.Gender);
+                cmd.Parameters.AddWithValue("@Gender", patient.Gender.ToString());
                 cmd.Parameters.AddWithValue("@MedicalCondition", patient.MedicalCondition);
 
                 conn.Open();
@@ -74,7 +73,7 @@ namespace PatientAndDoctorManagementSystem.Repositries
                             id = (int)reader["Id"],
                             Name = reader["Name"].ToString(),
                             Age = (int)reader["Age"],
-                            Gender = reader["Gender"].ToString(),
+                            Gender = Enum.TryParse(reader["Gender"].ToString(), out Gender g) ? g : Gender.other,
                             MedicalCondition = reader["MedicalCondition"].ToString()
                         });
                     }
@@ -87,8 +86,8 @@ namespace PatientAndDoctorManagementSystem.Repositries
         {
             using (SqlConnection conn = new SqlConnection(_connectionString))
             {
-                string query = "UPDATE Patient SET Name = @Name, Age = @Age, Gender = @Gender, MedicalCondition = @MedicalCondition WHERE Id = @Id";
-                SqlCommand cmd = new SqlCommand(query, conn);
+                string updateQuery = "UPDATE Patient SET Name = @Name, Age = @Age, Gender = @Gender, MedicalCondition = @MedicalCondition WHERE Id = @Id";
+                SqlCommand cmd = new SqlCommand(updateQuery, conn);
                 cmd.Parameters.AddWithValue("@Id", patient.id);
                 cmd.Parameters.AddWithValue("@Name", patient.Name);
                 cmd.Parameters.AddWithValue("@Age", patient.Age);
@@ -103,8 +102,8 @@ namespace PatientAndDoctorManagementSystem.Repositries
         {
             using (SqlConnection conn = new SqlConnection(_connectionString))
             {
-                string query = "DELETE FROM Patient WHERE Id = @Id";
-                SqlCommand cmd = new SqlCommand(query, conn);
+                string deleteQuery = "DELETE FROM Patient WHERE Id = @Id";
+                SqlCommand cmd = new SqlCommand(deleteQuery, conn);
                 cmd.Parameters.AddWithValue("@Id", patientId);
                 conn.Open();
                 cmd.ExecuteNonQuery();

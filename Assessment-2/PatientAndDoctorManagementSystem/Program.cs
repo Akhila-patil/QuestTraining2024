@@ -49,11 +49,14 @@ namespace PatientAndDoctorManagementSystem
 {
     internal class Program
     {
+        public const string connStr = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\pk\Documents\QuestDB.mdf;Integrated Security=True;Connect Timeout=30";
         static void Main(string[] args)
         {
+             
 
             PatientRepository patientRepo =new PatientRepository(connStr);
             Doctorrepository doctorrepository = new Doctorrepository(connStr);
+            HospitalManager manager = new HospitalManager();
 
             while (true)
             {
@@ -72,30 +75,31 @@ namespace PatientAndDoctorManagementSystem
                 switch (Option)
                 {
                     case "1":
-                        AddPatient();
+
+                        manager.AddPatient();
                         break;
 
                     case "2":
-                        GetAllPatients();
+                        manager.GetAllPatients();
                         break;
                     case "3":
-                       UpdatePatient();
+                        manager.UpdatePatient();
                        break;
                     case "4":
-                        DeletePatient();
+                        manager.DeletePatient();
                         break;
                     case "5":
-                        AddDoctor();
+                        manager.AddDoctor();
                         break;
 
                     case "6":
-                        GetAllDoctor();
+                        manager.GetAllDoctor();
                         break;
                     case "7":
-                        UpdateDoctor();
+                        manager.UpdateDoctor();
                         break;
                     case "8":
-                        DeleteDoctor();
+                        manager.DeleteDoctor();
                         break;
                     default:
                         Console.WriteLine("Invalid option");
@@ -109,120 +113,7 @@ namespace PatientAndDoctorManagementSystem
 
         }
     }
-    private static void AddPatient()
-    {
-        Console.Write("Enter patient name: ");
-        var name = Console.ReadLine();
-        Console.Write("Enter age: ");
-        var age = int.Parse(Console.ReadLine());
-        Console.Write("Enter gender: ");
-        var gender = Console.ReadLine();
-        Console.Write("Enter medical condition: ");
-        var medicalCondition = Console.ReadLine();
-
-        var patientRepo = new PatientRepository(connStr);
-        patientRepo.AddPatient(new Patient { Name = name, Age = age, Gender = gender, MedicalCondition = medicalCondition });
-        Console.WriteLine("Patient added successfully.");
-    }
-
-    private static void GetAllPatients()
-    {
-        var patientRepo = new PatientRepository(connStr);
-        var patients = patientRepo.GetAllPatients();
-        foreach (var patient in patients)
-        {
-            Console.WriteLine($"Id: {patient.id}, Name: {patient.Name}, Age: {patient.Age}, Gender: {patient.Gender}, Condition: {patient.MedicalCondition}");
-        }
-    }
-
-    private static void UpdatePatient()
-    {
-        Console.Write("Enter patient ID to update: ");
-
-        var id = int.Parse(Console.ReadLine());
-
-        Console.Write("Enter new patient name: ");
-        var name = Console.ReadLine();
-        Console.Write("Enter new age: ");
-        var age = int.Parse(Console.ReadLine());
-        Console.Write("Enter new gender: ");
-        var gender = Console.ReadLine();
-        Console.Write("Enter new medical condition: ");
-        var medicalCondition = Console.ReadLine();
-
-        var patientRepo = new PatientRepository(connStr);
-        patientRepo.UpdatePatient(new Patient { id = id, Name = name, Age = age, Gender = gender, MedicalCondition = medicalCondition });
-        Console.WriteLine("Patient updated successfully.");
-    }
-
-    private static void DeletePatient()
-    {
-        Console.WriteLine("Enter patient ID to delete:");
-        var id = int.Parse(Console.ReadLine());
-
-        var patientRepo = new PatientRepository(connStr);
-        patientRepo.DeletePatient(id);
-        Console.WriteLine("Patient deleted successfully.");
-
-    }
-
-
-    private static void AddDoctor()
-    {
-        Console.Write("Enter doctor name: ");
-        var name = Console.ReadLine();
-        Console.Write("Enter specialization: ");
-        var specialization = Console.ReadLine();
-        Console.Write("Enter patient Id (if any, or leave blank): ");
-        var patientIdInput = Console.ReadLine();
-        int? patientId = string.IsNullOrEmpty(patientIdInput) ? (int?)null : int.Parse(patientIdInput);
-
-        var doctorRepo = new Doctorrepository(connStr);
-        doctorRepo.AddDoctor(new Doctor { Name = name, Specialization = specialization, PatientId = patientId });
-        Console.WriteLine("Doctor added successfully.");
-    }
-
-    private static void GetAllDoctor()
-    {
-        var doctorRepo = new Doctorrepository(connStr);
-        var doctors = doctorRepo.GetAllDoctors();
-        foreach (var doctor in doctors)
-        {
-            Console.WriteLine($"Id: {doctor.Id}, Name: {doctor.Name}, Specialization: {doctor.Specialization}, PatientId: {doctor.PatientId}");
-        }
-    }
-
-    private static void UpdateDoctor()
-    {
-        Console.Write("Enter doctor ID to update: ");
-        var id = int.Parse(Console.ReadLine());
-
-        Console.Write("Enter new doctor name: ");
-        var name = Console.ReadLine();
-
-        Console.Write("Enter new specialization: ");
-        var specialization = Console.ReadLine();
-
-        Console.Write("Enter new patient Id : ");
-        var patientIdInput = Console.ReadLine();
-        int? patientId = string.IsNullOrEmpty(patientIdInput) ? (int?)null : int.Parse(patientIdInput);
-
-        var doctorRepo = new Doctorrepository(connStr);
-        doctorRepo.UpdateDoctor(new Doctor { Id = id, Name = name, Specialization = specialization, PatientId = patientId });
-        Console.WriteLine("Doctor updated successfully.");
-    }
-
-    private static void DeleteDoctor()
-    {
-        Console.Write("Enter doctor ID to delete: ");
-        var id = int.Parse(Console.ReadLine());
-
-        var doctorRepo = new Doctorrepository(connStr);
-        doctorRepo.DeleteDoctor(id);
-        Console.WriteLine("Doctor deleted successfully.");
-    }
-
-
+   
 
 
 }
