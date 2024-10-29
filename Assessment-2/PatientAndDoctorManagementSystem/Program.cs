@@ -55,7 +55,7 @@ namespace PatientAndDoctorManagementSystem
              
 
             PatientRepository patientRepo =new PatientRepository(connStr);
-            Doctorrepository doctorrepository = new Doctorrepository(connStr);
+            Doctorrepository doctorRepo = new Doctorrepository(connStr);
             HospitalManager manager = new HospitalManager();
 
             while (true)
@@ -69,9 +69,10 @@ namespace PatientAndDoctorManagementSystem
                 Console.WriteLine("7. Update Doctor");
                 Console.WriteLine("8. Delete Doctor");
                 Console.WriteLine("9. Exit");
-                Console.Write("Select an option: ");
 
+                Console.Write("Select an option: ");
                 var Option = Console.ReadLine();
+
                 switch (Option)
                 {
                     case "1":

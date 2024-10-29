@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day 19\Random\bin\Debug\Random.exe.config
+D:\QuestTraining2024\Day 19\Random\bin\Debug\Random.exe
+D:\QuestTraining2024\Day 19\Random\bin\Debug\Random.pdb
+D:\QuestTraining2024\Day 19\Random\obj\Debug\StonePaperScissor.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day 19\Random\obj\Debug\StonePaperScissor.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day 19\Random\obj\Debug\Random.exe
+D:\QuestTraining2024\Day 19\Random\obj\Debug\Random.pdb

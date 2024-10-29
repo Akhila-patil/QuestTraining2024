@@ -1,0 +1,11 @@
+D:\QuestTraining2024\Day 20\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\QuestTraining2024\Day 20\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\QuestTraining2024\Day 20\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\QuestTraining2024\Day 20\ConsoleApp2\bin\Debug\log4net.dll
+D:\QuestTraining2024\Day 20\ConsoleApp2\bin\Debug\log4net.pdb
+D:\QuestTraining2024\Day 20\ConsoleApp2\bin\Debug\log4net.xml
+D:\QuestTraining2024\Day 20\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day 20\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day 20\ConsoleApp2\obj\Debug\ConsoleA.D5FB4C91.Up2Date
+D:\QuestTraining2024\Day 20\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\QuestTraining2024\Day 20\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

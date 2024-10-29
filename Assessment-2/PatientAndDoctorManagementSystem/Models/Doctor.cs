@@ -15,9 +15,16 @@ namespace PatientAndDoctorManagementSystem.Models
     internal class Doctor
     {
         public int Id { get; set; }
-        public string Name { get; set; }
+        private string _name;
+
+        public string Name
+        {
+            get { return _name; }
+            set { _name = value; }
+        }
+
         public string Specialization { get; set; }
-        public int ? PatientId { get; set; }
+        public int? PatientId { get; set; }
 
     }
 

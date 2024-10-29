@@ -14,27 +14,25 @@ namespace PatientAndDoctorManagementSystem
         {
             Console.Write("Enter patient name: ");
             var name = Console.ReadLine();
-
+           
             Console.Write("Enter age: ");
             var age = int.Parse(Console.ReadLine());
 
             Console.Write("Enter gender(Male/Female/Other): ");
-            var gender = Console.ReadLine();
-            Gender g;
-            if(!Enum.TryParse(gender,true,out g))
+            var genderinput = Console.ReadLine();
+            Gender gender;
+            if (!Enum.TryParse(genderinput, true, out gender))
             {
                 Console.WriteLine("Invalid gender input");
-                g=Gender.other;
+                gender = Gender.other;
             }
-
             Console.Write("Enter medical condition: ");
             var medicalCondition = Console.ReadLine();
 
             var patientRepo = new PatientRepository();
-            patientRepo.AddPatient(new Patient { Name = name, Age = age, Gender = g, MedicalCondition = medicalCondition });
+            patientRepo.AddPatient(new Patient { Name = name, Age = age, Gender = gender, MedicalCondition = medicalCondition });
             Console.WriteLine("Patient added successfully.");
         }
-
         public void GetAllPatients()
         {
             var patientRepo = new PatientRepository();
@@ -44,7 +42,6 @@ namespace PatientAndDoctorManagementSystem
                 Console.WriteLine($"Id: {patient.id}, Name: {patient.Name}, Age: {patient.Age}, Gender: {patient.Gender}, Condition: {patient.MedicalCondition}");
             }
         }
-
         public void UpdatePatient()
         {
             Console.Write("Enter patient ID to update: ");
@@ -57,22 +54,21 @@ namespace PatientAndDoctorManagementSystem
             Console.Write("Enter new age: ");
             var age = int.Parse(Console.ReadLine());
 
-            Console.Write("Enter new gender: ");
-            var gender = Console.ReadLine();
-            Gender g;
-            if(!Enum.TryParse(gender,true,out g))
+            Console.Write("Enter new gender(Male/Female/Other): ");
+            var genderinput = Console.ReadLine();
+            Gender gender;
+            if(!Enum.TryParse(genderinput,true,out gender))
             {
                 Console.WriteLine("Invalid gender input");
-                g = Gender.other;
+                gender = Gender.other;
             }
             Console.Write("Enter new medical condition: ");
             var medicalCondition = Console.ReadLine();
 
             var patientRepo = new PatientRepository();
-            patientRepo.UpdatePatient(new Patient { id = id, Name = name, Age = age, Gender = g, MedicalCondition = medicalCondition });
+            patientRepo.UpdatePatient(new Patient { id = id, Name = name, Age = age, Gender = gender, MedicalCondition = medicalCondition });
             Console.WriteLine("Patient updated successfully.");
         }
-
         public void DeletePatient()
         {
             Console.WriteLine("Enter patient ID to delete:");
@@ -83,15 +79,13 @@ namespace PatientAndDoctorManagementSystem
             Console.WriteLine("Patient deleted successfully.");
 
         }
-
-
         public void AddDoctor()
         {
             Console.Write("Enter doctor name: ");
             var name = Console.ReadLine();
             Console.Write("Enter specialization: ");
             var specialization = Console.ReadLine();
-            Console.Write("Enter patient Id (if any, or leave blank): ");
+            Console.Write("Enter patient Id ");
             var patientIdInput = Console.ReadLine();
             int? patientId = string.IsNullOrEmpty(patientIdInput) ? (int?)null : int.Parse(patientIdInput);
 
@@ -99,7 +93,6 @@ namespace PatientAndDoctorManagementSystem
             doctorRepo.AddDoctor(new Doctor { Name = name, Specialization = specialization, PatientId = patientId });
             Console.WriteLine("Doctor added successfully.");
         }
-
         public void GetAllDoctor()
         {
             var doctorRepo = new Doctorrepository();
@@ -109,7 +102,6 @@ namespace PatientAndDoctorManagementSystem
                 Console.WriteLine($"Id: {doctor.Id}, Name: {doctor.Name}, Specialization: {doctor.Specialization}, PatientId: {doctor.PatientId}");
             }
         }
-
         public void UpdateDoctor()
         {
             Console.Write("Enter doctor ID to update: ");
@@ -129,7 +121,6 @@ namespace PatientAndDoctorManagementSystem
             doctorRepo.UpdateDoctor(new Doctor { Id = id, Name = name, Specialization = specialization, PatientId = patientId });
             Console.WriteLine("Doctor updated successfully.");
         }
-
         public void DeleteDoctor()
         {
             Console.Write("Enter doctor ID to delete: ");
@@ -139,7 +130,5 @@ namespace PatientAndDoctorManagementSystem
             doctorRepo.DeleteDoctor(id);
             Console.WriteLine("Doctor deleted successfully.");
         }
-
-
     }
 }

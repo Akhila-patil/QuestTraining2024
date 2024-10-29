@@ -20,7 +20,7 @@ namespace PatientAndDoctorManagementSystem.Repositries
         {
             createDoctorTable();
         }
-        private void createDoctorTable()
+        public void createDoctorTable()
         {
             var createTableQuery1 = @"CREATE TABLE DOCTORS
                                     (
@@ -49,9 +49,6 @@ namespace PatientAndDoctorManagementSystem.Repositries
                 conn.Open();
                 cmd.ExecuteNonQuery();
             }
-        
-
-
         }
         public List<Doctor> GetAllDoctor()
         {
@@ -75,7 +72,6 @@ namespace PatientAndDoctorManagementSystem.Repositries
             }
             return doctors;
         }
-
         public void UpdateDoctor(Doctor doctor)
         {
 
@@ -91,7 +87,6 @@ namespace PatientAndDoctorManagementSystem.Repositries
             }
 
         }
-
         public void DeleteDoctor(int doctorId)
         {
 
@@ -104,7 +99,5 @@ namespace PatientAndDoctorManagementSystem.Repositries
                 cmd.ExecuteNonQuery();
             }
         }
-
-
     }
 }

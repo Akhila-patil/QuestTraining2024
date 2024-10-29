@@ -21,10 +21,8 @@ namespace PatientAndDoctorManagementSystem.Repositries
         }
         public void CreatePatientTable()
         {
-            
-
-            var createTableQuery = @"CREATE TABLE PATIENTS
-                                  (
+            var createTableQuery =  @"CREATE TABLE PATIENTS
+                                    (
                                     id INT PRIMARY KEY IDENTITY,
                                     Name VARCHAR(50) NOT NULL,
                                     Age INT NOT NULL,
@@ -36,7 +34,6 @@ namespace PatientAndDoctorManagementSystem.Repositries
             var command = new SqlCommand(createTableQuery, conn);
             command.ExecuteNonQuery();
             conn.Close();
-
         }
 
         public void AddPatient(Patient patient)
@@ -73,7 +70,7 @@ namespace PatientAndDoctorManagementSystem.Repositries
                             id = (int)reader["Id"],
                             Name = reader["Name"].ToString(),
                             Age = (int)reader["Age"],
-                            Gender = Enum.TryParse(reader["Gender"].ToString(), out Gender g) ? g : Gender.other,
+                            Gender = Enum.TryParse(reader["Gender"].ToString(), out Gender gender) ? gender : Gender.other,
                             MedicalCondition = reader["MedicalCondition"].ToString()
                         });
                     }
@@ -109,8 +106,5 @@ namespace PatientAndDoctorManagementSystem.Repositries
                 cmd.ExecuteNonQuery();
             }
         }
-
-
-
     }
 }

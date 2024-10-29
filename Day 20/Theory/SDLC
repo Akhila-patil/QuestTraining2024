@@ -1,0 +1,150 @@
+The Software Development Life Cycle (SDLC) is a structured approach to software development that outlines the various phases involved in creating, testing, deploying, and maintaining software. It ensures a systematic and organized process, leading to the development of high-quality software that meets user requirements.
+
+Here's a breakdown of the typical phases in the SDLC:
+
+1. Planning and Requirement Analysis:
+
+Project Initiation: Identify the need for the software, define the scope, and establish project goals and objectives.
+
+Feasibility Study: Assess the technical, economic, and operational feasibility of the project.
+Requirement Gathering: Collect and document detailed functional and non-functional requirements from stakeholders.
+
+2. Design:
+
+System Design: Create a high-level design of the overall system, including its architecture, modules, and interfaces.
+Software Design: Develop detailed designs for individual software components, specifying their functionality, algorithms, and data structures.
+
+3. Development:
+
+Coding: Write the actual code for the software components based on the design specifications.
+Programming: Select appropriate programming languages and tools to implement the design.
+
+4. Testing:
+
+->Unit Testing: Test individual software components to ensure they work correctly.
+
+->Integration Testing: Test the interaction between different software components.
+Google Search found similar content, like this:
+The idea of integration testing is to take already-validated parts (by unit testing) and combine them to ensure that the interaction between them works as ...
+katalon.com
+
+->System Testing: Test the entire system to verify it meets all functional and non-functional requirements.
+
+->User Acceptance Testing (UAT): Involve end-users to test the software in a real-world environment.
+
+5. Deployment:
+
+Installation: Deploy the software to the production environment.
+Configuration: Configure the software to the specific needs of the organization.
+Data Migration: Migrate data from existing systems to the new software.
+
+6. Maintenance:
+
+Bug Fixes: Address and fix any bugs or defects discovered in the software.
+Enhancements: Add new features or functionalities to the software.
+Updates: Release updates or patches to improve the software's performance or security.
+
+SRS Document/importance/need/why we need?
+
+The purpose of an SRS document is to:
+
+Define System Requirements: It specifies both functional (features and behaviors) and non-functional (performance, security, usability) requirements.
+Serve as a Baseline: The SRS document is used as a baseline for planning, design, development, and testing.
+
+Facilitate Communication: It provides a common language and understanding among all stakeholders, which is essential for clear communication and collaboration.
+Provide a Reference: It acts as a reference document throughout the software development lifecycle (SDLC), guiding developers and testers and helping prevent scope creep.
+Why We Need an SRS Document
+
+Clarifies Requirements: By gathering and documenting requirements early, the SRS reduces ambiguity, misunderstandings, and potential rework.
+
+Improves Planning and Design: With detailed requirements, project managers can better plan timelines, budgets, and resources. Designers can create architectures that align with requirements.
+Guides Development and Testing: Developers understand what to build, and testers can use the SRS to create test cases that ensure the software meets the specified requirements.
+
+Reduces Risks: A well-defined SRS can help identify and mitigate risks related to requirements, like scope creep or feature creep.
+
+Enhances Maintainability: Clear requirements can make it easier to update or expand the system later, as the foundational requirements are well-documented.
+
+Importance of an SRS Document
+
+An SRS document is vital because it:
+
+Ensures Quality: By detailing both what a system should do and how it should perform, it ensures that the final product aligns closely with users' needs.
+Sets Clear Expectations: Clients and stakeholders know what to expect, which leads to greater satisfaction.
+
+Provides a Basis for Testing and Validation: An SRS allows testers to verify that each requirement has been met and provides a framework for validating the software against stakeholder expectations.
+
+Serves as Legal Documentation: The SRS can be legally binding, protecting both developers and clients by clearly outlining what has been agreed upon.
+
+Enhances Project Efficiency: Well-defined requirements can lead to less rework, fewer change requests, and ultimately, reduced development costs and time.
+
+Difference between Unit/Integration/Acceptance Testing
+
+-Unit Testing
+
+Focus: Individual units of code (functions, methods, classes)
+Goal: Ensure each unit works correctly in isolation
+Who: Primarily developers
+When: During development
+Example: Testing a function that calculates the factorial of a number
+
+-Integration Testing
+
+Focus: How different units of code interact with each other
+Goal: Ensure modules work together seamlessly
+Who: Developers and testers
+When: After unit testing
+Example: Testing how a user login module interacts with a database module
+
+-Acceptance Testing
+
+Focus: The entire system from an end-user perspective
+Goal: Verify the system meets user requirements and expectations
+Who: End-users, testers, and stakeholders
+When: Before deployment
+Example: Testing if a web application allows users to register and log in correctly
+
+SDLC: The Waterfall Model is a linear and sequential approach to software development. It is one of the earliest SDLC (Software Development Life Cycle) models and was widely used in traditional software projects.
+
+Key Phases of the Waterfall Model
+
+1.Requirements Gathering and Analysis
+
+This initial phase involves gathering and analyzing all system requirements in detail. All functional and non-functional requirements are documented to ensure a clear understanding of what the system is supposed to do.
+Deliverable: Software Requirements Specification (SRS) document.
+
+2.System Design
+
+Based on the requirements, a system architecture is designed to fulfill the specified needs. This phase involves high-level design, which includes database design, software architecture, and user interface layouts.
+Deliverable: Design document that outlines system structure and components.
+
+3.Implementation (Coding)
+
+This phase focuses on actual coding based on the design documentation. Each component or module is developed individually according to the requirements.
+Deliverable: Source code, compiled modules.
+
+4.Integration and Testing
+
+After all components are developed, they are integrated into a single system, and testing begins. Testing checks for bugs, integration issues, and functional discrepancies to ensure that the system works as intended.
+Deliverable: A fully tested software system, often with test documentation.
+
+5.Deployment
+
+Once testing is complete and the product is validated, it is deployed to the production environment. Users can now start using the system.
+Deliverable: Operational software, ready for production.
+
+6.Maintenance
+
+Post-deployment, the software enters the maintenance phase, where updates, bug fixes, and enhancements are handled. This phase can continue for an extended period as the software evolves.
+Deliverable: Updated software versions and documentation.
+
+Advantages of the Waterfall Model
+
+1.Simplicity: It’s easy to understand and manage due to its linear structure.
+2.Clear Milestones: Since each phase has specific goals, tracking project progress is                     straightforward.
+3.Good for Well-Defined Projects: Works well for projects with clear, unchanging requirements.
+
+Disadvantages of the Waterfall Model
+
+1.Inflexibility: Changes to requirements are difficult to implement once a phase is completed.
+2.Late Testing: Testing occurs only after the development phase, making it harder to address issues   that could have been caught earlier.
+3.Not Suitable for Complex or Iterative Projects: In projects with evolving requirements, the   Waterfall Model may not accommodate changes efficiently.
