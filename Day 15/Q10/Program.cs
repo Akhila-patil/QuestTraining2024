@@ -10,14 +10,50 @@ using System.Threading.Tasks;
 
 namespace Q10
 {
+    public delegate void GreetDelegate(string name);
     internal class Program
-    {
+    { 
+        static void GreetEnglish(string name)
+        {
+            Console.WriteLine("hello" + name);
+        }
+        static void GreetSpanish(string name)
+        {
+            Console.WriteLine("hello" + name);
+        }
         static void Main(string[] args)
         {
-            List<int> numbers = new List<int> { 1, 2, 4, 5, 8, 9, 16, 55 };
+            GreetDelegate greet = GreetEnglish;
+            greet += GreetSpanish;
 
-            var minNumber = numbers.Min();
-            Console.WriteLine($"Maximum Number from the list is: {minNumber}");
+
+            Func<int, int> Squares = x => x * x;
+            Console.WriteLine(Squares(5));
+
+            Func<int, int, int> Addition = (x, y) => x + y;
+            Console.WriteLine(Addition(2, 4));
+
+
+
+            Action<string> greetPerson = name => Console.WriteLine(name);
+            greetPerson("Akhila");
+
+            Action<string, int> PrintAgeAndName = (name, age) => Console.WriteLine($"{name} {age}");
+
+            PrintAgeAndName("Akhila", 34);
+
+            Action<int, int> Addition1 = (n1, n2) => Console.WriteLine($"{n1 + n2}");
+            Addition1(2, 2);
+
+
+
+            List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6 };
+            Predicate<int> IsEven = num => num % 2 == 0;
+            int evenNumber = numbers.Find(IsEven);
+            Console.WriteLine(evenNumber);
+
+            List<int> allEvenNumber = numbers.FindAll(IsEven);
+            Console.WriteLine(string.Join(",", allEvenNumber));
         }
     }
 }

@@ -1,0 +1,7 @@
+D:\QuestTraining2024\FindMissingNumber\bin\Debug\FindMissingNumber.exe.config
+D:\QuestTraining2024\FindMissingNumber\bin\Debug\FindMissingNumber.exe
+D:\QuestTraining2024\FindMissingNumber\bin\Debug\FindMissingNumber.pdb
+D:\QuestTraining2024\FindMissingNumber\obj\Debug\FindMissingNumber.csproj.AssemblyReference.cache
+D:\QuestTraining2024\FindMissingNumber\obj\Debug\FindMissingNumber.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\FindMissingNumber\obj\Debug\FindMissingNumber.exe
+D:\QuestTraining2024\FindMissingNumber\obj\Debug\FindMissingNumber.pdb

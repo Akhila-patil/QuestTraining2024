@@ -1,0 +1,7 @@
+D:\QuestTraining2024\CalculateDelegate\bin\Debug\CalculateDelegate.exe.config
+D:\QuestTraining2024\CalculateDelegate\bin\Debug\CalculateDelegate.exe
+D:\QuestTraining2024\CalculateDelegate\bin\Debug\CalculateDelegate.pdb
+D:\QuestTraining2024\CalculateDelegate\obj\Debug\CalculateDelegate.csproj.AssemblyReference.cache
+D:\QuestTraining2024\CalculateDelegate\obj\Debug\CalculateDelegate.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\CalculateDelegate\obj\Debug\CalculateDelegate.exe
+D:\QuestTraining2024\CalculateDelegate\obj\Debug\CalculateDelegate.pdb

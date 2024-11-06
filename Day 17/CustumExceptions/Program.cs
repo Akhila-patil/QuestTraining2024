@@ -7,45 +7,83 @@ using System.Threading.Tasks;
 namespace CustumExceptions
 {
     internal class Program
-    {
-        class MyCustumException:Exception
+    { 
+        public class InvalidAgeException : Exception
         {
-            public string Message {  get; set; }
-            public MyCustumException(string message)
+            public InvalidAgeException():base("Age cannot be zero or less than 0 and more than 120")
             {
-                Message= message;   
+
             }
+            public InvalidAgeException(string message) : base(message)
+            {
 
-        }
+            }
             
-
-
+        }
+        public static void validate(int age)
+        {
+            if (age <= 0 || age > 120)
+            {
+                throw new InvalidAgeException();
+            }
+        }
+        //static string ReverseString(string str)
+        //{
+        //    char[] charArray = new char[str.Length];
+        //    int j = 0;
+        //    for(int i = str.Length - 1; i >= 0; i--)
+        //    {
+        //        charArray[j] = str[i];
+        //        j++;
+        //    }
+        //    return new string(charArray);
+        //}
         static void Main(string[] args)
         {
             try
             {
-                Console.WriteLine("Enter two number");
-                int n1 = int.Parse(Console.ReadLine());
-                int n2 = int.Parse(Console.ReadLine());
-
-
-                if (n2 == 0)
-                {
-                    throw new MyCustumException("second nomber canoot be zero");
-                }
-
-                Console.WriteLine(n1 + n2);
-                Console.WriteLine(n1 - n2);
-                Console.WriteLine(n1 * n2);
-                Console.WriteLine(n2 / n2);
-
+                Console.WriteLine("Enter the age");
+                int age = int.Parse(Console.ReadLine());
+                validate(age);
+                Console.WriteLine("your age is:" + age);
             }
-
-
-            catch (Exception e)
+            catch (InvalidAgeException ex)
             {
-                Console.WriteLine(e.Message);
+                Console.WriteLine("Error:" + ex.Message);
             }
+
+
+            //Console.WriteLine(ReverseString("Hello"));
+
+
+            //int[] array = { 21, 3, 4, 5, 12, 89, 67, 5, 6, 74, 3, 24 };
+            //int temp = 0;
+            //for(int i = 0; i < array.Length; i++)
+            //{
+            //    for(int j = i + 1; j < array.Length; j++)
+            //    {
+            //        if (array[i] < array[j])
+            //        {
+            //            temp = array[i];
+            //            array[i] = array[j];
+            //            array[j] = temp;
+            //        }
+            //    }
+            //}
+            //Console.WriteLine("Desending array is:");
+            //foreach(var item in array)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+
+            //int[] array = { 1, 2, 3, 4, 5 };
+            //Console.WriteLine("Reversed array:");
+            //for(int i = array.Length - 1; i >=0; i--)
+            //{
+            //    Console.WriteLine(array[i]);
+            //}
+
         }
     }
 }

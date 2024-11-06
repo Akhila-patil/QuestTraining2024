@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Assesment-3\NoteTakingApp\bin\Debug\NoteTakingApp.exe.config
+D:\QuestTraining2024\Assesment-3\NoteTakingApp\bin\Debug\NoteTakingApp.exe
+D:\QuestTraining2024\Assesment-3\NoteTakingApp\bin\Debug\NoteTakingApp.pdb
+D:\QuestTraining2024\Assesment-3\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Assesment-3\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Assesment-3\NoteTakingApp\obj\Debug\NoteTakingApp.exe
+D:\QuestTraining2024\Assesment-3\NoteTakingApp\obj\Debug\NoteTakingApp.pdb

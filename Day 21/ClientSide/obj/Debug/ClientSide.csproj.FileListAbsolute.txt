@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day 21\ClientSide\bin\Debug\ClientSide.exe.config
+D:\QuestTraining2024\Day 21\ClientSide\bin\Debug\ClientSide.exe
+D:\QuestTraining2024\Day 21\ClientSide\bin\Debug\ClientSide.pdb
+D:\QuestTraining2024\Day 21\ClientSide\obj\Debug\ClientSide.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day 21\ClientSide\obj\Debug\ClientSide.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day 21\ClientSide\obj\Debug\ClientSide.exe
+D:\QuestTraining2024\Day 21\ClientSide\obj\Debug\ClientSide.pdb

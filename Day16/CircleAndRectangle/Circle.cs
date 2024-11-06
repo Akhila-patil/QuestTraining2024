@@ -8,8 +8,6 @@ namespace CircleAndRectangle
 {
     internal class Circle:IShape
     {
-        
-        
             public double Radius { get; set; }
 
             public Circle(double radius)
@@ -24,7 +22,5 @@ namespace CircleAndRectangle
             {
                 return 2 * Math.PI * Radius;
             }
-
-        
     }
 }

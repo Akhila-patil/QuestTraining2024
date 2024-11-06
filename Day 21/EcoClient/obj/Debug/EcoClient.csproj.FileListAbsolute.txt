@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day 21\EcoClient\bin\Debug\EcoClient.exe.config
+D:\QuestTraining2024\Day 21\EcoClient\bin\Debug\EcoClient.exe
+D:\QuestTraining2024\Day 21\EcoClient\bin\Debug\EcoClient.pdb
+D:\QuestTraining2024\Day 21\EcoClient\obj\Debug\EcoClient.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day 21\EcoClient\obj\Debug\EcoClient.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day 21\EcoClient\obj\Debug\EcoClient.exe
+D:\QuestTraining2024\Day 21\EcoClient\obj\Debug\EcoClient.pdb

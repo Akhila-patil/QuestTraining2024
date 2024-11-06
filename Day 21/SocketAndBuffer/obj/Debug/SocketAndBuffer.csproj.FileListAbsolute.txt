@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day 21\SocketAndBuffer\bin\Debug\SocketAndBuffer.exe.config
+D:\QuestTraining2024\Day 21\SocketAndBuffer\bin\Debug\SocketAndBuffer.exe
+D:\QuestTraining2024\Day 21\SocketAndBuffer\bin\Debug\SocketAndBuffer.pdb
+D:\QuestTraining2024\Day 21\SocketAndBuffer\obj\Debug\SocketAndBuffer.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day 21\SocketAndBuffer\obj\Debug\SocketAndBuffer.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day 21\SocketAndBuffer\obj\Debug\SocketAndBuffer.exe
+D:\QuestTraining2024\Day 21\SocketAndBuffer\obj\Debug\SocketAndBuffer.pdb

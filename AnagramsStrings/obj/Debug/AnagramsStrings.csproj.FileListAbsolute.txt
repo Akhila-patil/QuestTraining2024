@@ -1,0 +1,7 @@
+D:\QuestTraining2024\AnagramsStrings\bin\Debug\AnagramsStrings.exe.config
+D:\QuestTraining2024\AnagramsStrings\bin\Debug\AnagramsStrings.exe
+D:\QuestTraining2024\AnagramsStrings\bin\Debug\AnagramsStrings.pdb
+D:\QuestTraining2024\AnagramsStrings\obj\Debug\AnagramsStrings.csproj.AssemblyReference.cache
+D:\QuestTraining2024\AnagramsStrings\obj\Debug\AnagramsStrings.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\AnagramsStrings\obj\Debug\AnagramsStrings.exe
+D:\QuestTraining2024\AnagramsStrings\obj\Debug\AnagramsStrings.pdb

@@ -1,0 +1,7 @@
+D:\QuestTraining2024\IEnumerableICollectionIList\bin\Debug\IEnumerableICollectionIList.exe.config
+D:\QuestTraining2024\IEnumerableICollectionIList\bin\Debug\IEnumerableICollectionIList.exe
+D:\QuestTraining2024\IEnumerableICollectionIList\bin\Debug\IEnumerableICollectionIList.pdb
+D:\QuestTraining2024\IEnumerableICollectionIList\obj\Debug\IEnumerableICollectionIList.csproj.AssemblyReference.cache
+D:\QuestTraining2024\IEnumerableICollectionIList\obj\Debug\IEnumerableICollectionIList.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\IEnumerableICollectionIList\obj\Debug\IEnumerableICollectionIList.exe
+D:\QuestTraining2024\IEnumerableICollectionIList\obj\Debug\IEnumerableICollectionIList.pdb

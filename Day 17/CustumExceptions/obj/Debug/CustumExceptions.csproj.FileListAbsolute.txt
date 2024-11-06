@@ -1,0 +1,7 @@
+D:\QuestTraining2024\Day 17\CustumExceptions\bin\Debug\CustumExceptions.exe.config
+D:\QuestTraining2024\Day 17\CustumExceptions\bin\Debug\CustumExceptions.exe
+D:\QuestTraining2024\Day 17\CustumExceptions\bin\Debug\CustumExceptions.pdb
+D:\QuestTraining2024\Day 17\CustumExceptions\obj\Debug\CustumExceptions.csproj.AssemblyReference.cache
+D:\QuestTraining2024\Day 17\CustumExceptions\obj\Debug\CustumExceptions.csproj.CoreCompileInputs.cache
+D:\QuestTraining2024\Day 17\CustumExceptions\obj\Debug\CustumExceptions.exe
+D:\QuestTraining2024\Day 17\CustumExceptions\obj\Debug\CustumExceptions.pdb
